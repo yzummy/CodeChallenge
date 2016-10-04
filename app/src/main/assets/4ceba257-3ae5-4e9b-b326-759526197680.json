@@ -1,0 +1,2406 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1431351160,
+          "CreatedDate": 1431351160,
+          "Id": "be10959a-51e5-4de0-9dd7-a22200f0be53",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "CBC w/Auto Diff",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Not Required",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Manual Slide Review",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "da4a5211-99a0-4133-accb-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "35.7",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Lymphocytes %",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "736-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a7b909ad-d71e-40cb-adc0-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "31.8",
+                      "Units": "G/DL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCHC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "786-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "3c9b7918-5f40-40f5-be41-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "46.3",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Neutrophils %",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "5fe4afd2-a721-4669-8b58-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "30.1",
+                      "Units": "PG",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCH",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "785-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "30f42657-43e1-45d2-baff-a495008ccf7d",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "18",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mid %",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "91858925-8a80-4956-a769-a495008ccf7d",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13.3",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "RDW",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "21000-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "40f59ba6-be78-4756-8321-a495008ccf7d",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "94.9",
+                      "Units": "fL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCV",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "787-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "cd434d6a-6313-4040-9777-a495008ccf8c",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "38.4",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hematocrit",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "4544-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7b7dd323-1e88-43c3-a029-a495008ccf8c",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.4",
+                      "Units": "K/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Neutrophils, Abs. #",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "55adb71f-ef95-4e02-b230-a495008ccf8c",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.1",
+                      "Units": "K/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Lymphocytes, Abs. #",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "736-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c4c59515-4116-4698-b789-a495008ccf8c",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "12.2",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "718-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7fc81d1d-3268-4e18-aa46-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.6",
+                      "Units": "K/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mid, Abs. #",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "Mid cells may include less frequently occurring and rare cells such as monocytes, eosinophils, basophils, blasts and other precursor WBC's.",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d9a2d4d8-8248-42fa-a9e3-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.1",
+                      "Units": "K/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "White Blood Cells",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6690-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9e9c118e-6edf-4365-b8a9-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "4.05",
+                      "Units": "M/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Red Blood Cells",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "789-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "32ca8eca-37f0-4e5b-9fac-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "225",
+                      "Units": "k/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Platelets",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "777-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c806eb13-4e24-4c5c-9f8e-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              }
+            ]
+          },
+          "OrderDate": 1377177626
+        },
+        {
+          "LastModifiedDate": 1431351160,
+          "CreatedDate": 1431351160,
+          "Id": "d19825e6-d6a3-47e1-b960-a22200f0be58",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Lipid Panel",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "70",
+                      "Units": "mg/dL (calc)",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "LDL",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "National Cholesterol Education Program, ATP III recommendations:\r\n Optimal:               <130 mg/dL\r\n                       (<100 mg/dL if patient has CHD)\r\n  Borderline High:    130 - 159 mg/dL\r\n  High Risk:           160 - 189 mg/dL\r\n  Very High Risk:      >189 mg/dL",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "6a7f6af3-d505-4efb-bc3c-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "84",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Triglycerides",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "National Cholesterol Education Program, ATP III recommendations:\r\n    Normal Fasting    <150 mg/dL\r\n    Borderline High    150 - 199 mg/dL\r\n    High                200 - 499 mg/dL\r\n    Very High           >499 mg/dL",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b7a6b4c8-53f8-4f6e-9d76-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "2",
+                      "Units": "Ratio",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Cholesterol/HDL Ratio",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "Desirable ratio is below 5.0        Optimum ratio is 3.5",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "92a6e164-6851-4626-9015-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "89",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "HDL",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "National Cholesterol Education Program, ATP III, recommendations:\r\nHDL less than 40 mg/dL suggests higher risk. HDL 60 mg/dL or greater is considered to be a negative risk factor.",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "602db7af-9fd4-4954-b3b3-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "175",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Cholesterol, Total",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "National Cholesterol Education Program, ATP III recommendations:\r\nDesirable  <200 mg/dL in adults\r\n<170 mg/dL in adolescents and children\r\nBorderline High  200 - 239 mg/dL\r\n High >239 mg/dL",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "1395cd3b-130f-40c1-9b80-a495008ccf79",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              }
+            ]
+          },
+          "OrderDate": 1377179263
+        },
+        {
+          "LastModifiedDate": 1431351160,
+          "CreatedDate": 1431351160,
+          "Id": "e91f8aec-95e9-43df-b6e6-a22200f0be58",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Comprehensive Metabolic Panel",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "4.2",
+                      "Units": "g/dl",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Albumin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "1751-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ba30ac3a-2857-4bac-aa50-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.8",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Creatinine",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2160-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8af7aeb6-7a91-4edb-8a1e-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": ">60",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "EGFR (Estimated)",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d9ee0d10-0a83-4729-8e39-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "10",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "BUN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "3094-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "371e6227-4e8c-4a13-8669-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "87",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Glucose",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2345-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "afec8a35-6080-4e10-bb0b-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.4",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Total Bilirubin",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "26739aa0-c333-41b9-ae72-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "22",
+                      "Units": "U/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "AST",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "3126-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "de3e4ca2-f891-46a1-ae98-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "14",
+                      "Units": "U/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ALT",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6768-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0f89dc28-5ad1-4360-99e7-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "42",
+                      "Units": "U/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Alkaline Phosphatase",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6768-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d256b604-ff9e-456e-98fd-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "6.1",
+                      "Units": "g/dl",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Total Protein",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9471046e-3870-42fc-a6e8-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "9",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Calcium",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "17861-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "da4478b6-08bd-484e-b1e6-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "138",
+                      "Units": "mmol/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Sodium",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8638842e-74aa-44a1-ad73-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "4.2",
+                      "Units": "mmol/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Potassium",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9d06d0f5-93e8-4a40-bff8-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "100",
+                      "Units": "mmol/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Chloride",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "85ed4cf0-17ee-4979-ad63-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1377115200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "23",
+                      "Units": "mmol/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CO2",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "42acd815-2e04-46b3-8bdb-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              }
+            ]
+          },
+          "OrderDate": 1377184297
+        },
+        {
+          "LastModifiedDate": 1431351160,
+          "CreatedDate": 1431351160,
+          "Id": "239b7b61-291e-46bf-98c3-a30201272059",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "CBC w/Auto Diff",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Not Required",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Manual Slide Review",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7e2ac60e-e2e1-42c9-a0e2-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "33.6",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Lymphocytes %",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "736-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c88f7a0b-3948-4a8d-b135-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "32.3",
+                      "Units": "G/DL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCHC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "786-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "953678cf-36e2-4790-8865-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "50",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Neutrophils %",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "734858fc-919c-4c82-9087-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "30.2",
+                      "Units": "PG",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCH",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "785-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "466a0d05-3d0e-4cf6-adeb-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "16.4",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mid %",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "631cc1f0-033b-4d37-a312-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13.3",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "RDW",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "21000-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "82e18bd4-3331-4bed-a9ec-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "93.7",
+                      "Units": "fL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCV",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "787-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "871bc9c0-3362-47f8-a95b-a495008ccf90",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "41.5",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hematocrit",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "4544-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a93fe134-7ed3-44d8-9679-a495008ccf95",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.7",
+                      "Units": "K/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Neutrophils, Abs. #",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "f2131ffb-bf47-45e3-80f6-a495008ccf95",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.1",
+                      "Units": "K/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Lymphocytes, Abs. #",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "736-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c5853e7c-4e37-40d1-915c-a495008ccf95",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13.4",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "718-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0d71e295-94fd-4395-a296-a495008ccf9a",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.6",
+                      "Units": "K/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mid, Abs. #",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "Mid cells may include less frequently occurring and rare cells such as monocytes, eosinophils, basophils, blasts and other precursor WBC's.",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "90641a35-77d5-4eec-a3b6-a495008ccf9a",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.4",
+                      "Units": "K/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "White Blood Cells",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6690-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Confirmed by repeat analysis, slide review",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a425579a-9cc6-46f3-9c95-a495008ccf9a",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "4.43",
+                      "Units": "M/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Red Blood Cells",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "789-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "37109a81-64a0-4121-aa4d-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1396364880,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "265",
+                      "Units": "k/ul",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Platelets",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "777-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d098ab5b-9dc5-44eb-9d71-a495008ccf9e",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              }
+            ]
+          },
+          "OrderDate": 1396440831
+        },
+        {
+          "LastModifiedDate": 1431351160,
+          "CreatedDate": 1431351160,
+          "Id": "6c3d73a2-f91d-414c-9b27-a3760083ee56",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Thyroid Panel (T4/FT4/TSH)",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1406318220,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1",
+                      "Units": "mIU/mL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Thyroid Stimulating Hormone",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "3016-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "1c7760d6-20d7-447a-92b3-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1406318220,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "9.1",
+                      "Units": "ug/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Thyroxine",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "84df86b1-fb1c-4372-8d57-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              },
+              {
+                "ObservationDate": 1406318220,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.2",
+                      "Units": "ng/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Free Thyroxine (FT4)",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ae2ca1e8-3a9a-4e73-bff2-a495008ccfa3",
+                "CreatedDate": 1431351160,
+                "LastModifiedDate": 1431351160
+              }
+            ]
+          },
+          "OrderDate": 1406386521
+        }
+      ]
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": []
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Rectal Hemorrhage",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "569.3"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "MEDCIN",
+                "EnumValue": "98690"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5f4e4edb-c9ca-4a0e-916f-a30000a7ba47",
+          "CreatedDate": 1396364899,
+          "LastModifiedDate": 1431351159
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Thyroid disease",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "246.9"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "14304000"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "52efba49-1fa4-4636-9f6f-a37300f71aed",
+          "CreatedDate": 1406318216,
+          "LastModifiedDate": 1431351159
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "663694105",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Other",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Kiara",
+    "LastName": "Beard",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "95201",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 433209600,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -121.2876,
+    "Latitude": 37.958
+  },
+  "Id": 0,
+  "CreatedDate": 1471466604,
+  "LastModifiedDate": 1471466604,
+  "ExtIds": [],
+  "id": "4ceba257-3ae5-4e9b-b326-759526197680"
+}

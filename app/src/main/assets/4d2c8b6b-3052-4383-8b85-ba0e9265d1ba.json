@@ -1,0 +1,330 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": [
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1322802000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": "UH467AA",
+          "LotExpirationDate": 1341028800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Deltoid (Left)",
+          "Manufacturer": "sanofi pasteur",
+          "Series": "Influenza (3 years and up)",
+          "Dose": "0.5ml",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "Influenza (3 years and up)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "141"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "83816152-82a5-438d-8f0e-a5be00ba7fc0",
+          "CreatedDate": 1457021941,
+          "LastModifiedDate": 1457021941
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1413636780,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": "UI205AA",
+          "LotExpirationDate": 1435636800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Deltoid (Left)",
+          "Manufacturer": "sanofi pasteur",
+          "Series": "influenza, injectable, quadrivalent",
+          "Dose": "0.5ml",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "Influenza, injectable, quadrivalent",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "158"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2a4b8ce7-5e44-4c60-9889-a5be00ba7fc4",
+          "CreatedDate": 1457021941,
+          "LastModifiedDate": 1457021941
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1447514820,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": "UI504AB",
+          "LotExpirationDate": 1467259200,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Deltoid (Left)",
+          "Manufacturer": "sanofi pasteur",
+          "Series": "Influenza, preservative free (3 years and up)",
+          "Dose": "0.5ml",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "Quadrivalent Influenza Vaccine for 3 yrs & up.",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "150"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e96cda7a-d76b-4fc2-8820-a5be00ba7fc4",
+          "CreatedDate": 1457021941,
+          "LastModifiedDate": 1457021941
+        }
+      ]
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": []
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": []
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "169350641",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Self",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Benjamin",
+    "LastName": "Ayala",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "87730",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 168307200,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -104.2277,
+    "Latitude": 36.1281
+  },
+  "Id": 0,
+  "CreatedDate": 1471461223,
+  "LastModifiedDate": 1471461223,
+  "ExtIds": [],
+  "id": "4d2c8b6b-3052-4383-8b85-ba0e9265d1ba"
+}

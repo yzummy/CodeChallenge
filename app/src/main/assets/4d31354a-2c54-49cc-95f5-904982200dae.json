@@ -1,0 +1,203 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": []
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": []
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "782771972",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "SignificantOther",
+  "ResponsiblePartyRelationship": "_Blank",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Baker",
+    "LastName": "Allen",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "94945",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -471225600,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -122.5714,
+    "Latitude": 38.1163
+  },
+  "Id": 0,
+  "CreatedDate": 1471464694,
+  "LastModifiedDate": 1471464694,
+  "ExtIds": [],
+  "id": "4d31354a-2c54-49cc-95f5-904982200dae"
+}

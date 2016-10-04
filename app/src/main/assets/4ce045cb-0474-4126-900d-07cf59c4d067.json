@@ -1,0 +1,1399 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": ""
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "8e73a0e4-8c0f-4144-bbde-a5d400b29f71",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Screen Bilateral - Digital,CAD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1292668500,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Screen Bilateral - Digital,CAD",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 2\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  SLH\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004082071467   REQ LOC:SLH OP RADIOLOGY\r\nDOB:04/23/1969  41Y F\r\nSERVICE PROVIDED ON:  12/18/2010@1035      ADM BY:NON-AFFILIATED DOC\r\n\r\nORD BY  NON-AFFILIATED DOCTOR\r\n\r\n\r\n-----------------------------------------------------------------\r\n\r\n   CC TO:\r\nNON-AFFILIATE INFO:  SLI 9350 TURKEY LAKE RD, ORLANDO FL, 32819 407-363\r\n                     2772\r\n                                                               READ BY:  WALCZAK,STEVEN M\r\n               ORDER #      PROCEDURE                                CPT CODE\r\n                                                                 MA41181-10   MA SCRN BIL DIG & CAD\r\n------------------------------------------------------------------\r\nBilateral mammogram screening digital and CAD\r\n\r\n\r\n\r\nComparison: 11/5/2009, 10/28/2009, 12/8/2007, 12/20/2007, 12/15/2006,\r\n12/8/2006, 12/8/2005\r\n\r\nHistory: Asymptomatic, grandmother breast cancer\r\n\r\n\r\n\r\n\r\nFindings:\r\nFull field digital mammography(FFDM)was performed with computer-aided\r\ndetection(CAD) using iCAD SecondLook.\r\n\r\nThere is a heterogeneously dense fibroglandular breast tissue pattern,\r\nthis may lower the sensitivity of the exam.\r\n\r\nNo dominant or spiculated mass, clustered pleomorphic\r\nmicrocalcifications, skin thickening or nipple retraction.\r\n\r\n\r\n\r\nIMPRESSION:  No definite mammographic evidence of malignancy.  Annual\r\nscreening mammogram recommended.\r\n\r\n\r\nRECOMMENDATION:  Annual screening mammogram.\r\n\r\n\r\nBI-RADS Category 1: Negative\r\n\r\nMammography does not detect approximately 10-15% of breast cancers.  A\r\nnormal mammogram does not exclude breast cancer if there is an\r\nabnormal finding on physical examination.  When clinically indicated,\r\na biopsy should not be postponed because of a normal mammogram report.\r\n\r\nEdited By: <None>\r\nInterpreted By: Walczak, M.D., Steven M.\r\nDictated on: 12/20/2010 16:11:31\r\nElectronically Signed by: Walczak, M.D., Steven M.\r\nSigned on: 12/20/2010 16:15:22\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "cd7ac81c-56fb-4ff3-974d-a5d400b21e78",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1292686500
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "280dd002-0b61-43dc-9fe4-a5d400b29f71",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Screen Bilateral - Digital,CAD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1320503100,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Screen Bilateral - Digital,CAD",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 2\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  SLH\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004089248415   REQ LOC:SLH OP RADIOLOGY\r\nDOB:04/23/1969  42Y F\r\nSERVICE PROVIDED ON:  11/05/2011@1425      ADM BY:LAZAR,ARNOLD J MD\r\n\r\nORD BY  LAZAR,ARNOLD J MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  SAUNDERS,HOLLY B\r\n                                           ORDER #      PROCEDURE      CPT CODE\r\n                                            MA33993-11   MA SCRN BIL DIG & CAD\r\n------------------------------------------------------------------\r\nHISTORY: Asymptomatic 42-year-old female\r\n\r\nCOMPARISON: December 18, 2010 T November 5, 2009\r\n\r\nBilateral digital mammogram performed and iCAD reviewed. The right\r\nbreast pattern is stable without suspicious finding. Asymmetric\r\ndensity left breast requires additional evaluation. Patient will be\r\nrecalled.\r\n\r\nIMPRESSION:\r\n1. Benign findings right breast.\r\n2. Incomplete evaluation left breast.\r\n\r\nRECOMMENDATION: Patient will return for additional imaging left\r\nbreast.\r\n\r\nBIRADS ASSESSMENT CATEGORY: 0, Incomplete: Needs additional imaging\r\nevaluation.\r\n\r\nMAMMOGRAPHY INFORMATION:\r\n\r\nMammography does not detect all breast cancers. A normal mammogram\r\ndoes not exclude breast cancer if there is an abnormal finding on\r\nphysical examination. When clinically indicated, a biopsy should not\r\nbe postponed because of a normal mammogram report.\r\n\r\n\r\n\r\n\r\n\r\nEdited By: Phillips, Tiffany\r\nInterpreted By: Saunders, M.D., Holly B.\r\nDictated on: 11/07/2011 12:50:01\r\nElectronically Signed by: Saunders, M.D., Holly B.\r\nSigned on: 11/07/2011 16:49:22\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8f089dae-99a1-4a3e-9e81-a5d400b21e78",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1320517500
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "bf406988-cf10-4f40-9c9d-a5d400b29f71",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Diagnostic Digital Uni",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1321278060,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Diagnostic Digital Uni",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 2\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004089457545   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  42Y F\r\nSERVICE PROVIDED ON:  11/14/2011@1341      ADM BY:LAZAR,ARNOLD J MD\r\n\r\nORD BY  LAZAR,ARNOLD J MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  WALCZAK,STEVEN M\r\n                                           ORDER #      PROCEDURE        CPT CODE\r\n                                            MA35048-11   MA DIAGNOSTIC DIGITAL UNILATERAL     L\r\n------------------------------------------------------------------\r\nLeft mammogram diagnostic digital and CAD\r\n\r\n\r\n\r\nComparison: 11/5/2011, 12/18/2010, 10/28/2009, 12/5/2008 12/8/2005\r\n\r\nHistory: Additional imaging left breast asymmetric density, 793.80\r\n\r\n\r\nFindings:\r\nFull field digital mammography(FFDM) was performed with computer-aided\r\ndetection(CAD) using iCAD SecondLook.\r\n\r\nThere is a heterogeneously dense fibroglandular breast tissue pattern,\r\nthis may lower the sensitivity of the exam.\r\n\r\nNo dominant or spiculated mass, clustered pleomorphic\r\nmicrocalcifications, skin thickening or nipple retraction.\r\n\r\nThe noted asymmetric density outer left breast on CC view of screening\r\nexam of 11/5/2011 is not reproduced on additional imaging consistent\r\nwith normal superimposed tissue elements.\r\n\r\n\r\n\r\nIMPRESSION:\r\n1.  No definite mammographic evidence of malignancy.\r\n2.  Annual screening mammogram recommended.\r\n\r\n\r\nRECOMMENDATION:  Annual screening mammogram.\r\n\r\n\r\nBI-RADS Category 1: Negative\r\n\r\nMammography does not detect approximately 10-15% of breast cancers.  A\r\nnormal mammogram does not exclude breast cancer if there isan\r\nabnormal finding on physical examination.  When clinically indicated,\r\na biopsy should not be postponed because of a normal mammogram report.\r\n\r\n\r\n\r\nEdited By: <None>\r\nInterpreted By: Walczak, M.D., Steven M.\r\nDictated on: 11/14/2011 13:40:34\r\nElectronically Signed by: Walczak, M.D., Steven M.\r\nSigned on: 11/14/2011 13:41:58\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c6b947aa-1b62-4880-afce-a5d400b21e78",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1321296060
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "8b035d7b-d432-49c6-8025-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Diagnostic Bilateral - Digital,CAD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1332338700,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Diagnostic Bilateral - Digital,CAD",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 2\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004092130303   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  42Y F\r\nSERVICE PROVIDED ON:  03/21/2012@1405      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  SAUNDERS,HOLLY B\r\n                                           ORDER #      PROCEDURE        CPT CODE\r\n                                            MA7410-12    MA DX BIL DIG & CAD\r\n------------------------------------------------------------------\r\nHISTORY: 42-year-old female with breast pain.\r\n\r\nCOMPARISON: 11/14/2011, 11/5/2011, 12/18/2010 and 11/5/2009.\r\n\r\nBilateral digital mammogram performed and iCAD reviewed. There is a\r\ncircumscribed mass in the right breast 12:00 position measuring 2.4\r\ncm. The breasts are dense but without a spiculated lesion, cluster of\r\npleomorphic microcalcification or other finding to suggest malignancy.\r\n\r\nBILATERAL BREAST ULTRASOUND\r\n\r\nUltrasound is performed throughout both breasts. In the right breast\r\n12:00 is a 2.8 cm simple cyst corresponding to the mammographic\r\nfinding. It is located 3-4cm from the nipple. There are additional\r\nsmall cysts scattered throughout both breasts. Within the left breast\r\nat the 9:00 position is a small solid nodule 6.5 mm at 9:00 9-10 cm\r\nfrom nipple. I see little if any posterior acoustic enhancement. This\r\nis probably a small solid nodule.\r\n\r\nIMPRESSION:\r\n\r\n1. Small solid nodule left breast 9:00. Recommend cyst aspiration with\r\npossible core biopsy.\r\n2. Bilateral multiple benign cysts or a benign finding.\r\n\r\nRECOMMENDATION: Ultrasound cyst aspirationof possible core biopsy\r\nleft breast 9:00.\r\n\r\nBIRADS ASSESSMENT CATEGORY: 3,  Probably benign.\r\n\r\nMAMMOGRAPHIC INFORMATION: Mammography does not detect all breast\r\ncancers. Physical examination of the breasts by your physician and\r\nregular monthly breast self-examinations are integral parts of breast\r\ncancer screening. A normal mammogram does not exclude breast cancer if\r\nthere is an abnormal finding on physical examination. When clinically\r\nindicated, a biopsy should not be postponed because of a normal\r\nmammogram report.\r\n\r\nEdited By: Tremblay, Julie A.\r\nInterpreted By: Saunders, M.D., Holly B.\r\nDictated on: 03/21/2012 16:41:24\r\nElectronically Signed by: Saunders, M.D., Holly B.\r\nSigned on: 03/22/2012 09:03:20\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8ba39b3b-1670-4f19-af14-a5d400b21e78",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1332353100
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "7574e821-1cdb-4bfe-b10b-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Breast Bil",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1332343620,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Breast Bil",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004092130303   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  42Y F\r\nSERVICE PROVIDED ON:  03/21/2012@1527      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  SAUNDERS,HOLLY B\r\n                                           ORDER #      PROCEDURE        CPT CODE\r\n                                            MA7844-12    US BREAST BILATERAL                      76645\r\n------------------------------------------------------------------\r\nPlease see combined dictation under accession number MA7410-12.\r\n\r\nEdited By: Phillips, Tiffany\r\nInterpreted By: Saunders, M.D., Holly B.\r\nDictated on: 03/21/2012 16:36:12\r\nElectronically Signed by: Saunders, M.D., Holly B.\r\nSigned on: 03/22/2012 09:03:09\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d4ca60c0-6189-4f3a-a500-a5d400b21e78",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1332358020
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "c7876906-822c-4d6f-abdb-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Guided Cyst Localization",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1332514080,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Guided Cyst Localization",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  ACC\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:ACRD\r\nMR#: 000002971037    ACCT#:004092258443   REQ LOC:ACC OP RADIOLOGY\r\nDOB:04/23/1969  42Y F\r\nSERVICE PROVIDED ON:  03/23/2012@1448      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  SAUNDERS,HOLLY B\r\n                                           ORDER #      PROCEDURE      CPT CODE\r\n                                            US14068-12   US GUIDED CYST LOCALIZATION          L   76942\r\n------------------------------------------------------------------\r\nHISTORY: 42-year-old female with small nodule left breast 9:00, 9 to\r\n10 cm from nipple. She presents for cyst aspiration with possible core\r\nbiopsy.\r\n\r\nUltrasound of the left breast confirms a small hypoechoic nodule deep\r\n9:00, 9 to 10 cm from the nipple. Risk and benefits of the procedure\r\nare explained to the patient in detail and informed consent is\r\nobtained. Skin prepped and anesthetized. Using an 18-gauge needle, it\r\nwas fully aspirated and clear fluid withdrawn.\r\n\r\nIMPRESSION:\r\n\r\nSuccessful aspiration left breast cyst 9:00.\r\n\r\nRECOMMENDATION: Resume annual mammographic evaluation.\r\n\r\nEdited By: Lucas, Kay\r\nInterpreted By: Saunders, M.D., Holly B.\r\nDictated on: 03/28/2012 09:26:32\r\nElectronically Signed by: Saunders, M.D., Holly B.\r\nSigned on: 03/29/2012 13:50:37\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "bf26cf84-7d74-41ef-a58d-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1332528480
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "0efd7a90-d64f-479c-96c7-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Breast Cyst Asp by Rad",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1332514140,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Breast Cyst Asp by Rad",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  ACC\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:ACRD\r\nMR#: 000002971037    ACCT#:004092258443   REQ LOC:ACC OP RADIOLOGY\r\nDOB:04/23/1969  42Y F\r\nSERVICE PROVIDED ON:  03/23/2012@1449      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  SAUNDERS,HOLLY B\r\n                                           ORDER #      PROCEDURE      CPT CODE\r\n                                            MA8109-12    US BREAST CYST ASP                   L   19000\r\n------------------------------------------------------------------\r\nPlease see combined dictation under US14068-12.\r\n\r\nEdited By:Phillips, Tiffany\r\nInterpreted By: Saunders, M.D., Holly B.\r\nDictated on: 03/28/2012 09:27:20\r\nElectronically Signed by: Saunders, M.D., Holly B.\r\nSigned on: 03/29/2012 13:50:38\r\n-------------------------------------------------------------------\r\n             MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "40cdbb3b-e97f-45a1-8c19-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1332528540
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "c5bf9373-20bb-4378-92df-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Screen Bilateral - Digital,CAD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1372086060,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Screen Bilateral - Digital,CAD",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 2\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004101826099   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  44Y F\r\nSERVICE PROVIDED ON:  06/24/2013@1501      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  WADINA,PAUL T MD\r\n                                           ORDER #      PROCEDURE        CPT CODE\r\n                                            MA15215-13   MA SCRN BIL DIG & CAD\r\n------------------------------------------------------------------\r\nBILATERAL DIGITAL SCREENING MAMMOGRAM\r\n\r\nHISTORY: Screening mammography.\r\n\r\nCraniocaudal, mediolateral oblique views bilateral breasts were\r\nobtained.\r\n\r\nCOMPARISON: 3/21/2012, 11/5/2011, 12/18/2010, 10/28/2009, 12/5/2008.\r\nImages were reviewed with CAD.\r\n\r\nFINDINGS:\r\n\r\nThe breast parenchymal pattern is heterogeneous, at least moderately\r\ndense, fairly symmetric, normal. Oval density in the deep central\r\nright breast, approximately 4 mm minimally increased in size since the\r\nprevious CT. This has the appearance of a cyst. Recommend ultrasound.\r\n\r\nThere is no dominant mass, architectural distortion, skin thickening,\r\nor nipple retraction.\r\n\r\nI understand there are no palpable abnormalities.\r\n\r\nIMPRESSION:\r\n\r\n1. Incomplete. There is a rounded asymmetric opacity deep right\r\nbreast, this warrants additional imaging and possible ultrasound. Left\r\nbreast negative with no radiographic findings suggestive of\r\nmalignancy.\r\n\r\nBIRADS ASSESSMENT CATEGORY: 0, Incomplete: Needs additional imaging\r\nevaluation right breast, additional images and possible ultrasound.\r\n\r\nRECOMMENDATION: Additional images and possible ultrasound right\r\nbreast.\r\n\r\nMAMMOGRAPHY INFORMATION: Mammography does not detect all breast\r\ncancers. A normal mammogram does not exclude breast cancer if there is\r\nan abnormal finding on physical examination. When clinically\r\nindicated, a biopsy should not be postponed because of a normal\r\nmammogram report.\r\n\r\n\r\nEdited By: Lucas, Kay\r\nInterpreted By: Wadina, M.D., Paul T.\r\nDictated on: 06/24/2013 15:20:12\r\nElectronically Signed by: Wadina, M.D., Paul T.\r\nSigned on: 06/25/2013 14:52:01\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0a071098-4b95-4acf-8651-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1372100460
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "6ae20725-d934-46cd-9171-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Diagnostic Digital Uni",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1372861200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Diagnostic Digital Uni",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004102176122   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  44Y F\r\nSERVICE PROVIDED ON:  07/03/2013@1420      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  CLARK,DARWIN K. M\r\n                                           ORDER #      PROCEDURE         CPT CODE\r\n                                            MA17377-13   MA DIAGNOSTIC DIGITAL UNILATERAL     R\r\n------------------------------------------------------------------\r\nRight breast digital diagnostic mammogram with CAD and right breast\r\nultrasound\r\n\r\nIndication: Evaluate large mass\r\n\r\nComparison: 6/24/2013, 3/21/2012 and 11/5/2011\r\n\r\nRight breast mammogram findings:\r\nLarge mass central portion right breast posteriorly shown to be simple\r\ncysts. Heterogeneously dense glandular tissue is stable. No suspicious\r\nmasses or calcifications.\r\n\r\nRight breast ultrasound findings:\r\nLarge cyst 12:00 3 cm from the nipple 3.8 x 4.5 x 1.6 cm. This is\r\nstable. Multiple other small simple and septated cysts noted. No\r\nsuspicious masses. No abnormal shadowing.\r\n\r\nImpression:\r\n1. Stable large cysts 12:00 3 cm from nipple.\r\n2. Recommendation: Resume annual mammography and breast\r\nself-examination.\r\n\r\nBIRADS Assessment Category 2, benign findings.\r\n\r\nEdited By: <None>\r\nInterpreted By: Clark, M.D., Darwin K.\r\nDictated on: 07/04/2013 18:25:41\r\nElectronically Signed by: Clark, M.D., Darwin K.\r\nSigned on: 07/04/2013 18:27:35\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "955801f8-0090-4ee3-8d62-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1372875600
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "eec8d63f-9f70-4e3c-b095-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Breast Uni",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1372862700,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Breast Uni",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004102176122   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  44Y F\r\nSERVICE PROVIDED ON:  07/03/2013@1445      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  CLARK,DARWIN K. M\r\n                                           ORDER #      PROCEDURE         CPT CODE\r\n                                            MA17386-13   US BREAST UNI                        R   76645\r\n------------------------------------------------------------------\r\nRefer to accession MA17377-13\r\n\r\nEdited By: <None>\r\nInterpreted By: Clark, M.D., Darwin K.\r\nDictated on: 07/04/2013 18:27:41\r\nElectronically Signed by: Clark, M.D., Darwin K.\r\nSigned on: 07/04/2013 18:27:56\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "3cbbd8fa-eec8-4c89-87ab-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1372877100
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "0b084399-aa8f-4fa4-9f72-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Guided Cyst Localization",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1381404660,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Guided Cyst Localization",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  SLH\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004104429974   REQ LOC:SLH OP RADIOLOGY\r\nDOB:04/23/1969  44Y F\r\nSERVICE PROVIDED ON:  10/10/2013@1131      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  BARON,NEIL W MD\r\n                                           ORDER #      PROCEDURE     CPT CODE\r\n                                            US53831-13   US GUIDED CYST LOCALIZATION          R   76942\r\n------------------------------------------------------------------\r\nRIGHT BREAST CYST ASPIRATION:\r\n\r\nA second cyst was aspirated at the same setting. This cyst was at the\r\n3:00 position left breast. Following the same technique the needle was\r\nadvanced into the smaller, approximately 2 cm left breast cyst at\r\napproximately the 3:00 position. Smaller amount of fluid aspirated and\r\nsent to laboratory. Wall is collapsed. No complications.\r\n\r\nIMPRESSION: Second breast cyst aspirated at the same setting.\r\n\r\nEdited By: Owens, Paula\r\nInterpreted By: Baron, M.D., Neil W.\r\nDictated on: 10/10/2013 11:32:51\r\nElectronically Signed by: Baron, M.D., Neil W.\r\nSigned on: 10/10/2013 14:31:31\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "f9cced7e-6e82-445e-ab8d-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1381419060
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "47151e3b-face-41b3-b970-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Breast Cyst Asp by Rad",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1381404600,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Breast Cyst Asp by Rad",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  SLH\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004104429974   REQ LOC:SLH OP RADIOLOGY\r\nDOB:04/23/1969  44Y F\r\nSERVICE PROVIDED ON:  10/10/2013@1130      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  BARON,NEIL W MD\r\n                                           ORDER #      PROCEDURE     CPT CODE\r\n                                            MA26296-13   US BREAST CYST ASP                   R   19000\r\n------------------------------------------------------------------\r\nRIGHT BREAST CYST ASPIRATION\r\n\r\nThe patient has dominant palpable tense cyst measuring approximately 3\r\ncm, approximately 12 o'clock position right breast. She gave informed\r\nconsent and the procedure was performed following usual technique.\r\nTimeout was performed. Appropriate skin entry site was chosen using\r\nultrasound. Skin was prepped in a sterile manner and skin and\r\nsubcutaneous soft tissues infiltrated with 1% lidocaine as local\r\nanesthetic. Single pass made with needle with placement in the\r\ndominant cyst verified ultrasonographically. Fluid aspirated and sent\r\nto laboratory for analysis. The fluid was somewhat turbid and brown.\r\nLikely related to remote hemorrhage. Cyst walls collapse normally. No\r\nirregularity or filling defect. No complications.\r\n\r\nIMPRESSION: Dominant tense 12 o'clock right breast cyst has been\r\naspirated and drained. Needle removed and hemostasis easily achieved.\r\n\r\n\r\n\r\nEdited By: Tucker, Dawn\r\nInterpreted By: Baron, M.D., Neil W.\r\nDictated on: 10/10/2013 11:31:27\r\nElectronically Signed by: Baron, M.D., Neil W.\r\nSigned on: 10/10/2013 14:31:29\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "bbf92761-a14d-41b9-8d6f-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1381419000
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "a81f349d-6758-4591-b20b-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "MRI Breast Bil c/ & s/ Con",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1384513200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MRI Breast Bil c/ & s/ Con",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  ORMC\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:RAOR\r\nMR#: 000002971037    ACCT#:004105234506   REQ LOC:ORM O/P RADIOLOGY\r\nDOB:04/23/1969  44Y F\r\nSERVICE PROVIDED ON:  11/15/2013@1100      ADM BY:CHAMBERS,DANELLE K\r\n\r\nORD BY  CHAMBERS,DANELLE K MD\r\n        801 N ORANGE AVE SUITE 640\r\n                ORLANDO, FL           32801\r\n-----------------------------------------------------------------\r\n\r\n                                           CC TO:\r\nNON-AFFILIATE INFO:\r\n                                          READ BY:  GROSS,TERRENCE M\r\n                                           ORDER #      PROCEDURE                           CPT CODE\r\n                                            MR43607-13   MR BREAST BIL W & W/O CONTRAST           77059\r\n------------------------------------------------------------------\r\nBILATERAL BREAST MR WITHOUT AND WITH CONTRAST 11/15/2013\r\n\r\nCOMPARISON: Mammogram June 24, 2013, July 3, 2013, cyst aspiration\r\nOctober 10, 2013.\r\n\r\nHISTORY: History of cysts in both breasts.\r\n\r\nTECHNIQUE:  Plain and fat suppressed T1 weighted FLASH, T2 STIR, and\r\npost contrast enhanced fatsuppressed T1 weighted T1 FLASH sequences\r\nperformed.  Image data is post processed to generate enhancement\r\nkinetics, subtraction, and MIP images. Interpretation performed on\r\ndedicated workstation.\r\n\r\nFINDINGS: A few small benign appearing scattered cysts are present.\r\nThere are no suspicious features in either breast. The nipple and skin\r\nare normal. There is no chest wall mass, internal mammary or axillary\r\nadenopathy.\r\n\r\nIMPRESSION: Benign findings.\r\n\r\nBIRADS ASSESSMENT CATEGORY: 2, Benign.\r\n\r\nEdited By: Lewis, Erica\r\nInterpreted By: Gross, M.D., Terrence M\r\nDictated on: 11/15/2013 14:27:29\r\nElectronically Signed by: Gross, M.D., Terrence M\r\nSigned on: 11/16/2013 06:53:50\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "5613c59e-7443-4929-8976-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1384531200
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "2042372c-beaf-41bd-83bf-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Diagnostic Bilateral - Digital,CAD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1412345760,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Diagnostic Bilateral - Digital,CAD",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  SLH\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004111952208   REQ LOC:SLH OP RADIOLOGY\r\nDOB:04/23/1969  45Y F\r\nSERVICE PROVIDED ON:  10/03/2014@1416      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                                                                     READ BY:  JONES,J DANIEL\r\n                                                                                      ORDER #      PROCEDURE                  CPT CODE\r\n                                                                                       MA23059-14   MA DX BIL DIG AND CAD\r\n------------------------------------------------------------------\r\nMA DX BIL DIG AND CAD\r\n\r\n\r\nBilateral full field digital mammography with CAD\r\n\r\nClinical history: History of cysts. Cyst aspiration on right followed\r\nby MRI.\r\n\r\nComparison: 7/3/2013, 3/21/2012, 11/5/2011, 12/18/2010\r\n\r\nHeterogeneously breast density pattern. Large rounded circumscribed\r\nmass in right breast is no longer present. No suspicious abnormality\r\nright.\r\n\r\nLeft breast with a rounded benign-appearing density inferiorly. This\r\ncorrelates with large cyst noted on prior MRI 11/15/2013.\r\n\r\nImpression: Benign\r\n\r\nBIRADS ASSESSMENT CATEGORY: 2, Benign\r\n\r\nRECOMMENDATION: Annual screening.\r\n\r\nMAMMOGRAPHY INFORMATION:\r\n1. Mammography does not detect all breast cancers.\r\n2. A normal mammogram does not exclude breast cancer if there is an\r\nabnormal finding on physical examination.\r\n3. When clinically indicated, a biopsy should not be postponed because\r\nof a negative or normal mammogram report.\r\n\r\n\r\nDictated on: 10/3/2014 2:20 PM\r\nSigned by: J. Daniel Jones, M.D.  10/3/2014 2:32 PM\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "266272a3-ec0e-462c-b95e-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1412360160
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "4cecbd9a-58da-4ff7-a699-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Screen Bilateral - Digital,CAD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1448377500,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Screen Bilateral - Digital,CAD",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004121376067   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  46Y F\r\nSERVICE PROVIDED ON:  11/24/2015@1504      ADM BY:LOGAN,SHERYL L MD\r\n\r\nORD BY  LOGAN,SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK,FL        32789\r\n-----------------------------------------------------------------\r\n\r\n                                                                                     READ BY:  SAUNDERS,HOLLY B\r\n                                                                                      ORDER #      PROCEDURE                      CPT CODE\r\n                                                                                       MA30372-15   MA SCRN BIL DIG AND  CAD\r\n------------------------------------------------------------------\r\nBILATERAL DIGITAL SCREENING MAMMOGRAM WITH CAD (COMPUTER-AIDED\r\nDETECTION)\r\n\r\nHISTORY: Asymptomatic.\r\n\r\nCOMPARISON: October 3, 2014; June 24, 2013; March 21, 2012\r\n\r\nFINDINGS:\r\n\r\nBilateral digital mammogram performed and iCAD reviewed.\r\n\r\nThe breasts are heterogeneously dense, which may obscure small masses.\r\nCircumscribed masses bilaterally are consistent with cyst as shown\r\npreviously .There is no dominant spiculated mass, clustered\r\npleomorphic microcalcification, or other finding to indicate\r\nmalignancy.\r\n\r\nIMPRESSION: Benign findings.\r\n\r\nRECOMMENDATION: Annual mammogram\r\n\r\n\r\nBIRADS ASSESSMENT CATEGORY: 2: BENIGN FINDING.\r\n\r\nMAMMOGRAPHY INFORMATION: Mammography does not detect all breast\r\ncancers. A normal mammogram does not exclude breast cancer if there is\r\nan abnormal finding on physical examination. When clinically\r\nindicated, a biopsy should not be postponed because of a normal\r\nmammogram report.\r\n\r\n\r\nDictated on: 11/25/2015 4:24 PM\r\nSigned by: Holly Saunders, M.D.  11/25/2015 4:29 PM\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ad21de13-6544-46a3-a681-a5d400b21e86",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1448395500
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "5fd9194e-d604-41a2-b5d1-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Mammo Diagnostic Digital Uni",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1458827040,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Mammo Diagnostic Digital Uni",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 2\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004124444144   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  46Y F\r\nSERVICE PROVIDED ON:  03/24/2016@1344      ADM BY:BRIDGE, JASON L MD\r\n\r\nORD BY  LOGAN, SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK, FL       32789\r\n-----------------------------------------------------------------\r\n\r\n                                                                                     READ BY:  PANZER,DAVID E MD\r\n                                                                                      ORDER #      PROCEDURE                         CPT CODE\r\n                                                                                       MA8259-16    MA DIAGNOSTIC DIGITAL UNILATERAL     L\r\n------------------------------------------------------------------\r\nDIGITALDIAGNOSTIC LEFT MAMMOGRAM WITH CAD\r\n\r\nINDICATION: Painful left breast lump, history of breast cysts\r\n\r\nFull field digital diagnostic mammography was performed in conjunction\r\nwith iCAD. Comparison is made with a recent screening mammogram dated\r\n11/24/2015 and a prior study dated 10/3/2013.\r\n\r\nThe left breast is radiographically dense which limits the sensitivity\r\nof this exam.  A large nodular opacity is seen adjacent to a\r\nradiopaque marker delineating the area of clinical concern. Ultrasound\r\nwill be obtained to further evaluate. No other dominant masses,\r\nspiculated densities, areas of architectural distortion or clustered\r\nmicrocalcifications suggestive of malignancy are seen.\r\n\r\nLEFT BREAST ULTRASOUND\r\n\r\nINDICATION: Painful left breast lump, history of breast cysts\r\n\r\nThe left breast was evaluated in its entirety. At the 5:00 position\r\nthere is a cyst measuring 2.1 x 2.1 x 1.8 cm which represents the\r\npalpable abnormality. Edematous changes are seen in the surrounding\r\nbreast tissue. There is also an adjacent 0.5 x 0.7 x 0.6 cm cyst. At\r\nthe 1:00 position is a cluster of cystic densities measuring 0.6 x 0.4\r\nx 0.2 cm in aggregate. At the 10:00 position there is a 0.4 x 0.5 x\r\n0.2 cm cyst.\r\n\r\nIMPRESSION:\r\n\r\n1. Large cyst with edematous changes in the adjacent soft tissues\r\nrepresenting the palpable abnormality.\r\n2. Additional smaller cysts are seen as delineated above.\r\n\r\nRECOMMENDATION: Annual mammographic followup is advised. Patient has\r\nhad breast cysts aspirated in the past. If clinically warranted, this\r\ncould also be pursued.\r\n\r\nResults of this examination and recommendations were discussed with\r\nthe patient.\r\n\r\nBI-RADS assessment category: 2-benign\r\n\r\n\r\nDictated on: 3/24/2016 3:30 PM\r\nSigned by: David Panzer, M.D. 3/24/2016 3:55 PM\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "810c9146-dfa2-44d5-ab26-a5d400b21e8a",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1458841440
+        },
+        {
+          "LastModifiedDate": 1458917310,
+          "CreatedDate": 1458917310,
+          "Id": "1802ffc6-2cf1-45e8-9962-a5d400b29f75",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Breast Uni",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1458830280,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Breast Uni",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  DPHWI\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004124444144   REQ LOC:SLHOP RADIOLOGY\r\nDOB:04/23/1969  46Y F\r\nSERVICE PROVIDED ON:  03/24/2016@1438      ADM BY:BRIDGE, JASON L MD\r\n\r\nORD BY  LOGAN, SHERYL L MD\r\n        1551 CLAY ST\r\n                WINTER PARK, FL       32789\r\n-----------------------------------------------------------------\r\n\r\n                                                                                     READ BY:  PANZER,DAVID E MD\r\n                                                                                      ORDER #      PROCEDURE                         CPT CODE\r\n                                                                                       MA8267-16    US BREAST UNI                        L   76641\r\n------------------------------------------------------------------\r\nResults of this examination have been dictated in conjunction with a\r\ndiagnostic mammogram of the same date. Please refer to the\r\naccompanying report.\r\n\r\nImpression: Please see above.\r\n\r\n\r\nDictated on: 3/24/2016 3:25 PM\r\nSigned by: David Panzer, M.D. 3/24/2016 3:25 PM\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ef65274a-7659-4fb9-a2ac-a5d400b21e8a",
+                "CreatedDate": 1458917310,
+                "LastModifiedDate": 1458917310
+              }
+            ]
+          },
+          "OrderDate": 1458844680
+        },
+        {
+          "LastModifiedDate": 1461766229,
+          "CreatedDate": 1461766229,
+          "Id": "20be826b-b944-490c-b511-a5f500a7acab",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Breast Cyst Asp by Rad",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1461748680,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Breast Cyst Asp by Rad",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "\r\n                            ORLANDO HEALTH              Pg 1   of 1\r\n                                            DEPARTMENT OF RADIOLOGY/NUCLEAR MEDICINE\r\n                                                                          Performed at:  SLH\r\n\r\n                                                                                                                   REPORT STATUS: Final\r\nPATIENT:  SITTERLEY,LISA M                CUR LOC:SLRD\r\nMR#: 000002971037    ACCT#:004124593445   REQ LOC:SLH OP RADIOLOGY\r\nDOB:04/23/1969  47Y F\r\nSERVICE PROVIDED ON:  04/27/2016@0918      ADM BY:BRIDGE, JASON L MD\r\n\r\nORD BY  BRIDGE, JASON L MD\r\n        1551 CLAY ST\r\n                WINTER PARK, FL       32789\r\n-----------------------------------------------------------------\r\n\r\n                                                                                     READ BY:  SAUNDERS,HOLLY B\r\n                                                                                      ORDER #      PROCEDURE                      CPT CODE\r\n                                                                                       MA11378-16   US BREAST CYST ASP                   L   19000\r\n------------------------------------------------------------------\r\nUSBREAST CYST ASP-LEFT\r\n\r\nHISTORY: Left breast cyst 5:00\r\n\r\nFINDINGS:\r\n\r\nRisk and benefits of the procedure were explained in detail to the\r\npatient.  Informed consent was obtained.  Skin was prepped and\r\nanesthetized the usual fashion.  Under ultrasound guidance using a\r\n18-gauge needle, the cyst was fully aspirated and collapsed. Tan color\r\nfluid was withdrawn and discarded.  Patient tolerated procedure\r\nwell.Patient was given post procedure instructions.\r\n\r\nIMPRESSION:\r\n\r\nSuccessful ultrasound-guided left breast cyst aspiration\r\n\r\n\r\n\r\n\r\nDictated on: 4/27/2016 10:03 AM\r\nSigned by: Holly Saunders, M.D.  4/27/2016 10:05 AM\r\n-------------------------------------------------------------------\r\n                MR#: 000002971037  PATIENT: SITTERLEY,LISA M\r\n\r\n\r\n",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "fdfa772f-f2d8-41ae-86af-a5f500a7acab",
+                "CreatedDate": 1461766229,
+                "LastModifiedDate": 1461766229
+              }
+            ]
+          },
+          "OrderDate": 1461763080
+        }
+      ]
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": []
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "AB MAMMOGRAM NOS",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "AB MAMMOGRAM NOS",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1cbffb51-c148-4083-96d4-a5d400b212ad",
+          "CreatedDate": 1458917308,
+          "LastModifiedDate": 1458917308
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "585329368",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "_Blank",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Bevis",
+    "LastName": "West",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "14276",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -21859200,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -78.8871,
+    "Latitude": 42.7684
+  },
+  "Id": 0,
+  "CreatedDate": 1471460987,
+  "LastModifiedDate": 1471460987,
+  "ExtIds": [],
+  "id": "4ce045cb-0474-4126-900d-07cf59c4d067"
+}

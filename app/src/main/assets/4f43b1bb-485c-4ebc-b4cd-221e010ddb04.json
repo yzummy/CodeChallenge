@@ -1,0 +1,334 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1410696221,
+          "CreatedDate": 1410696221,
+          "Id": "aaf608e9-f111-461e-ba89-a3a600745f02",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "MG Mammo Digital Screening BIL",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1374933420,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MG Mammo Digital Screening BIL",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "Procedure:  MG DIGITAL SCREEN BI (MGDIGSCRB)\r\nAccession Number:  2254299\r\nCompletion Date and Time:  07/27/2013 08:57:00\r\n \r\nBILATERAL DIGITAL MAMMOGRAMS:\r\n \r\nThe current examination is compared with previous mammograms of \r\nOctober 2009, October 2010, and June 2012.\r\n \r\nCraniocaudal and mediolateral oblique full field digital views of \r\nboth breasts were obtained.  The breast tissue is predominantly fatty \r\nand radiolucent (0-25% fibroglandular density).  There is no evidence \r\nof a mass or suspicious  clustered microcalcifications.  There has \r\nbeen no change when compared to previous examinations.\r\n \r\nIMPRESSION:\r\n1.  No evidence of malignancy, and no significant change from \r\nprevious examinations.\r\n2.  Computer aided detection (CAD) was utilized on this exam.\r\n3.  BIRADS category 1:  Negative Examination.  Recommend annual \r\nscreening mammography.\r\n \r\nThe patient's information has been entered into an automatic reminder \r\nsystem to generate a target due date for annual screening mammography.\r\n \r\nInterpreted by:  Woomer, Scott Forest MD, Radiologist\r\nResponsible Radiologist:  Woomer, Scott Forest, MD, Radiologist\r\nEdited By:  325 Interface\r\nElectronically Signed by:  Woomer, Scott Forest MD, Radiologist    Date/Time:  07/29/2013 08:51:00",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b840f267-46c9-4c3b-9c1d-a3a600745f02",
+                "CreatedDate": 1410696221,
+                "LastModifiedDate": 1410678218
+              }
+            ]
+          },
+          "OrderDate": 1374933420
+        },
+        {
+          "LastModifiedDate": 1410696221,
+          "CreatedDate": 1410696221,
+          "Id": "74067080-921b-4e0d-9ed0-a3a600745f02",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "US Abdomen",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1384268700,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "see details",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "US Abdomen",
+                "NomenclatureIds": [],
+                "ClinicalDescription": "Procedure:  US ABD COMPL (USABDCMP)\r\nAccession Number:  2639665\r\nCompletion Date and Time:  11/12/2013 09:05:00\r\n \r\nABDOMINAL ULTRASOUND COMPLETE\r\n \r\nCLINICAL HISTORY: Abnormal liver enzymes\r\n \r\nTECHNIQUE: Sonographic evaluation of the abdomen was performed \r\nutilizing 2D grayscale and color doppler imaging.\r\n \r\nCOMPARISON STUDIES: None\r\n \r\nFINDINGS: There is limited visualization of the pancreas.  The \r\nvisualized portions of the pancreas demonstrate no significant \r\nabnormality.  \r\n \r\nLimited images of the abdominal aorta demonstrate no evidence of \r\naneurysmal dilatation.  Portions of the aorta are obscured by bowel \r\ngas.  Limited images of the IVC are unremarkable.  \r\n \r\nHepatic echogenicity is diffusely increased, compatible with fatty \r\ninfiltration.  This limits evaluation for focal hepatic masses, \r\nalthough none are identified.  The liver is mildly enlarged; the \r\nright hepatic lobe measures 19.4 cm increasing caudal length.  There \r\nis no evidence of intrahepatic biliary ductaldilatation.  There is \r\nsuggestion of minimal nodularity of the hepatic capsule.  \r\n \r\nImages of the gallbladder demonstrate no evidence of shadowing \r\ngallstones.  There is small gallbladder sludge.  There is no evidence \r\nof gallbladder wall thickening or pericholecystic fluid.  The common \r\nduct measures 4 mm in diameter, within normal limits. \r\n \r\nThe right kidney measures 11.7 cm in craniocaudal length and \r\ndemonstrates normal echogenicity relative to the liver.  There is no \r\nevidence of acontour deforming mass or hydronephrosis the right \r\nkidney. \r\n \r\nThe spleen is mildly enlarged, measuring 13.6 centimeters in \r\ncraniocaudal length.  \r\n \r\nLeft kidney measures 12.1 cm in craniocaudal length and demonstrates \r\nno evidence of a contour deforming mass or hydronephrosis.  \r\n \r\nIMPRESSION:\r\n \r\n1.  Diffusely increased hepatic echogenicity, compatible with fatty \r\ninfiltration.  The liver is mildly enlarged.  There is suggestion of \r\nminimal nodularity of the hepatic capsule such that early cirrhosis \r\ncannot be excluded.  \r\n \r\n2.  Small gallbladder sludge.  No sonographic evidence of \r\ncholelithiasis or cholecystitis. \r\n \r\n3.  Mild splenomegaly.\r\n \r\nInterpreted by:  Wise, David A MD, Radiologist\r\nResponsible Radiologist:  Wise, David A, MD, Radiologist\r\nEdited By:  325 Interface\r\nElectronically Signed by:  Wise, David A MD, Radiologist    Date/Time:  11/12/2013 10:17:00",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "58cf29e1-5640-4843-8dfc-a3a600745f02",
+                "CreatedDate": 1410696221,
+                "LastModifiedDate": 1410678218
+              }
+            ]
+          },
+          "OrderDate": 1384268700
+        }
+      ]
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": []
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": []
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "909495093",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Child",
+  "ResponsiblePartyRelationship": "_Blank",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Jin",
+    "LastName": "Pennington",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "73544",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -735436800,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -99.7843,
+    "Latitude": 34.665
+  },
+  "Id": 0,
+  "CreatedDate": 1471464570,
+  "LastModifiedDate": 1471464570,
+  "ExtIds": [],
+  "id": "4f43b1bb-485c-4ebc-b4cd-221e010ddb04"
+}

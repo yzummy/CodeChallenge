@@ -1,0 +1,278 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1459183444,
+          "CreatedDate": 1459183444,
+          "Id": "d264ac92-026a-4332-a20a-1a5e226ba390",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Clonazepam 0.5 MG Oral Tablet [Klonopin]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "one by mouth twice daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "Clonazepam 0.5 MG Oral Tablet [Klonopin]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1459183473,
+          "CreatedDate": 1459183473,
+          "Id": "f84ba981-48f8-4c67-a74c-5d563a196e14",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "CeleXA 40 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "one tablet by  mouth daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "CeleXA 40 MG Oral Tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": []
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "893475762",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "_Blank",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "cassidy",
+    "LastName": "bean",
+    "MiddleName": "middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Unspecified"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "12861",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -158025600,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -73.4123,
+    "Latitude": 43.756
+  },
+  "Id": 0,
+  "CreatedDate": 1471467676,
+  "LastModifiedDate": 1471467676,
+  "ExtIds": [],
+  "id": "4eafce4b-dc95-436d-bc80-460dc039be36"
+}

@@ -1,0 +1,5367 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "9fff71d6-f039-487c-9e85-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "XR CHEST AP/PA S",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466524200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN N PASALICH M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Read By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Read By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0442a72d-34da-41f8-8af7-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466524200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN N PASALICH M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Released By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Released By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "fc33d045-6a3a-4ea3-98fc-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              }
+            ]
+          },
+          "OrderDate": 1466524200
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "78ed929e-172a-4410-a473-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "UA (C&S if Indic",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "N",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Microscopic U/A?",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Microscopic U/A?",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c7f83a5a-6360-47f6-b308-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "N",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "C&S Ind?",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "C&S Ind?",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "43278648-983a-4738-972d-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Yellow",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Color",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5778-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Color:Type:Pt:Urine:Nom (Yellow)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "879e8d2c-510d-4de9-9fff-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Clear",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Clarity",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "32167-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Clarity:Type:Pt:Urine:Nom (Clear)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8697569d-9834-4a93-b583-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.015",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Specific gravity",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5811-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specific gravity:Rden:Pt:Urine:Qn:Test strip (1.003-1.030)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b102d9a4-0b47-4ace-bfc7-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "6",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "pH",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5803-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "pH:LsCnc:Pt:Urine:Qn:Test strip (5.0-8.0)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c20e34bb-caca-4df6-a533-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Leukocyte esterase",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5799-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Leukocyte esterase:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "420c5b52-c55b-4632-9df4-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Nitrite",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5802-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Nitrite:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ca07c9ce-1492-44b7-bf38-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Protein",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5804-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Protein:MCnc:Pt:Urine:Qn:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8a10b4e3-0e98-427a-be71-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Glucose",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5914-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Glucose:ACnc:Pt:Bld:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "25bdc8e3-368d-464e-a955-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Ketones",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2514-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Ketones:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "92cd5e3a-e3ea-4396-a303-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Normal EU/dL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Urobilinogen",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "20405-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Urobilinogen:MCnc:Pt:Urine:Qn:Test strip (Normal EU/dL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "1cde5d16-23eb-4fa3-a84c-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Bilirubin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5770-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Bilirubin:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9a01b856-7e3e-4f9b-bcf4-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5794-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Hemoglobin:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "aaf4e616-9672-47cf-95f9-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              }
+            ]
+          },
+          "OrderDate": 1466521200
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "60bd0eb5-b241-466e-be18-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "CBC WITHOUT DIFF",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "23.5 H X 1000/uL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Leukocytes",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6690-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Leukocytes:NCnc:Pt:Bld:Qn:Automated count (3.6-11.1 X 1000/uL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a5ccffad-e3c7-406e-b793-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.89 MILLION/uL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocytes",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "789-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocytes:NCnc:Pt:Bld:Qn:Automated count (3.69-4.88 MILLION/uL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "4c6ea18a-134d-436e-b087-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "11.7 L g/dL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "718-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Hemoglobin:MCnc:Pt:Bld:Qn (12.0-15.0 g/dL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "32631fc2-e5ac-45eb-82bb-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "36.0 %",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hematocrit",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "4544-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Hematocrit:VFr:Pt:Bld:Qn:Automated count (33.3-41.1 %)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "3109cb3a-7ad9-4fd9-8cd4-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "92.5 fL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte mean corpuscular volume",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "787-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte mean corpuscular volume:EntVol:Pt:RBC:Qn:Automated count (79.3-94.8 fL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8b8e532c-3717-42e6-973f-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "30.1 pg",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte mean corpuscular hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "785-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte mean corpuscular hemoglobin:EntMass:Pt:RBC:Qn:Automated count (26.8-33.2 pg)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "1f09039d-3ccf-484f-b5db-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "32.5 L g/dL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte mean corpuscular hemoglobin concentration",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "786-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte mean corpuscular hemoglobin concentration:MCnc:Pt:RBC:Qn:Automated count (33.5-37.0 g/dL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "996d5fb9-db87-426b-afd5-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "234 X 1000/uL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Platelets",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "777-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Platelets:NCnc:Pt:Bld:Qn:Automated count (140-450 X 1000/uL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "655f6278-7f17-41fd-a2f0-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13.5 %",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte distribution width",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "788-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte distribution width:Ratio:Pt:RBC:Qn:Automated count (12.0-15.1 %)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "76ce1325-2f48-4df5-bdc8-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "10.5 fL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Platelet mean volume",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "32623-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Platelet mean volume:EntVol:Pt:Bld:Qn:Automated count (9.4-11.9 fL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "f52166bb-6e0d-4045-81fd-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              }
+            ]
+          },
+          "OrderDate": 1466460000
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "9f998a0c-2aa0-461d-8a2c-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "XR PELVIS WITH L",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466447400,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN L BORMANN M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Read By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Read By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "75efcd4c-373d-437f-976d-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466447400,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN L BORMANN M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Released By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Released By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8da0b2fd-9854-40f1-838d-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              }
+            ]
+          },
+          "OrderDate": 1466447400
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "34a055a4-e2fa-4d3a-b958-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "HBB TYPE & SCREE",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466433000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "O Positive",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABO+Rh group",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "882-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "ABO+Rh group:Type:Pt:Bld:Nom",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ab7af54a-282e-4b52-8bf3-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              },
+              {
+                "ObservationDate": 1466433000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Blood group antibody screen",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "890-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Blood group antibody screen:Pr:Pt:Ser/Plas:Ord",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "1116ea19-dd59-4caf-bbdc-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              }
+            ]
+          },
+          "OrderDate": 1466433000
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "b198256a-df13-4885-bb69-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "WAM ORM NRBC",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.0 %",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocytes.nucleated/100 erythrocytes",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "26461-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocytes.nucleated/100 erythrocytes:NFr:Pt:Bld:Qn",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b0d1bb40-17f5-434e-9aa3-a62c00d8f1f3",
+                "CreatedDate": 1466514592,
+                "LastModifiedDate": 1466514592
+              }
+            ]
+          },
+          "OrderDate": 1466460000
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "0ab6601f-e6e3-42c6-876d-a62d00456e8c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "XR CHEST AP/PA S",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466524200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN N PASALICH M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Read By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Read By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ad9f535b-561d-40e0-bb06-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466524200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN N PASALICH M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Released By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Released By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ef708128-a7d1-4baa-a367-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              }
+            ]
+          },
+          "OrderDate": 1466524200
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "f086d8bc-aa74-48f1-abe7-a62d00456e8c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "UA (C&S if Indic",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "N",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Microscopic U/A?",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Microscopic U/A?",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "58505669-70d1-4ba6-b145-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "N",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "C&S Ind?",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "C&S Ind?",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "464cae66-a545-46de-9d60-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Yellow",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Color",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5778-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Color:Type:Pt:Urine:Nom (Yellow)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c1b01a79-03fe-456b-a648-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Clear",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Clarity",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "32167-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Clarity:Type:Pt:Urine:Nom (Clear)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a848347f-4389-47de-94ab-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.015",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Specific gravity",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5811-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specific gravity:Rden:Pt:Urine:Qn:Test strip (1.003-1.030)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "49ecc942-dc5c-4a06-b798-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "6",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "pH",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5803-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "pH:LsCnc:Pt:Urine:Qn:Test strip (5.0-8.0)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7ecae3bb-08b8-4505-85bd-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Leukocyte esterase",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5799-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Leukocyte esterase:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c7f17d6a-f3d8-47b2-891e-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Nitrite",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5802-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Nitrite:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9c213e17-c2a6-4799-a165-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Protein",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5804-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Protein:MCnc:Pt:Urine:Qn:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "bab60f0f-615e-46ee-a956-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Glucose",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5914-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Glucose:ACnc:Pt:Bld:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "103b2cdd-9027-435b-8c6f-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Ketones",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2514-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Ketones:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c3b1338d-d87c-4670-a592-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Normal EU/dL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Urobilinogen",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "20405-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Urobilinogen:MCnc:Pt:Urine:Qn:Test strip (Normal EU/dL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b1a627e4-22b3-4335-86bb-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Bilirubin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5770-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Bilirubin:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a3435e11-4841-4043-ae11-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466521200,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5794-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Hemoglobin:ACnc:Pt:Urine:Ord:Test strip (Negative)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0a00a2f7-1243-4886-90d2-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              }
+            ]
+          },
+          "OrderDate": 1466521200
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "91ce6dcb-8b87-487e-bab7-a62d00456e8c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "CBC WITHOUT DIFF",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "23.5 H X 1000/uL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Leukocytes",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6690-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Leukocytes:NCnc:Pt:Bld:Qn:Automated count (3.6-11.1 X 1000/uL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b02acc90-40fe-469c-b1e5-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.89 MILLION/uL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocytes",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "789-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocytes:NCnc:Pt:Bld:Qn:Automated count (3.69-4.88 MILLION/uL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "594ef2be-738f-436b-8e34-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "11.7 L g/dL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "718-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Hemoglobin:MCnc:Pt:Bld:Qn (12.0-15.0 g/dL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0e030c89-8cd4-4173-a8c9-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "36.0 %",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hematocrit",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "4544-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Hematocrit:VFr:Pt:Bld:Qn:Automated count (33.3-41.1 %)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "01c594aa-884d-4931-8596-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "92.5 fL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte mean corpuscular volume",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "787-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte mean corpuscular volume:EntVol:Pt:RBC:Qn:Automated count (79.3-94.8 fL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "dbd4c93c-50e2-4429-9c83-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "30.1 pg",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte mean corpuscular hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "785-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte mean corpuscular hemoglobin:EntMass:Pt:RBC:Qn:Automated count (26.8-33.2 pg)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "13eb0b66-2b6d-4fbb-8ef4-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "32.5 L g/dL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte mean corpuscular hemoglobin concentration",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "786-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte mean corpuscular hemoglobin concentration:MCnc:Pt:RBC:Qn:Automated count (33.5-37.0 g/dL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "1f365410-47e9-44ef-9b23-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "234 X 1000/uL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Platelets",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "777-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Platelets:NCnc:Pt:Bld:Qn:Automated count (140-450 X 1000/uL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "fc3a41d6-16c9-4126-ba84-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13.5 %",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocyte distribution width",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "788-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocyte distribution width:Ratio:Pt:RBC:Qn:Automated count (12.0-15.1 %)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "39cd136d-f02e-497f-8999-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "10.5 fL",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Platelet mean volume",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "32623-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Platelet mean volume:EntVol:Pt:Bld:Qn:Automated count (9.4-11.9 fL)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7d65cc66-d1a5-446b-9be5-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              }
+            ]
+          },
+          "OrderDate": 1466460000
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "21f5457a-b01d-400f-a6ae-a62d00456e8c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "XR PELVIS WITH L",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466447400,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN L BORMANN M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Read By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Read By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a806a942-6c94-4457-8d00-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466447400,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "JOHN L BORMANN M.D.",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Released By",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "UNK"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Released By",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "2d1d7adf-27d6-4867-b619-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              }
+            ]
+          },
+          "OrderDate": 1466447400
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "4bb4911b-c711-41b0-8117-a62d00456e8c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "HBB TYPE & SCREE",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466433000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "O Positive",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABO+Rh group",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "882-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "ABO+Rh group:Type:Pt:Bld:Nom",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "5374f9b8-e2df-4cd2-848e-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              },
+              {
+                "ObservationDate": 1466433000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "Negative",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Blood group antibody screen",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "890-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Blood group antibody screen:Pr:Pt:Ser/Plas:Ord",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "3e01429f-3dd2-4175-b43e-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              }
+            ]
+          },
+          "OrderDate": 1466433000
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "2ac63713-98c9-4b63-827d-a62d00456e8c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "WAM ORM NRBC",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1466460000,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.0 %",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Erythrocytes.nucleated/100 erythrocytes",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "26461-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Erythrocytes.nucleated/100 erythrocytes:NFr:Pt:Bld:Qn",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c28ddb78-a6ae-4af5-a4b2-a62d00456e8c",
+                "CreatedDate": 1466568767,
+                "LastModifiedDate": 1466568767
+              }
+            ]
+          },
+          "OrderDate": 1466460000
+        }
+      ]
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "136",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8480-6"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "643ca009-b79a-459f-a14e-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "12",
+                "Units": "Breaths Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "9279-1"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "65844a7c-8417-43c5-a725-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "87",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8867-4"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "65b938fd-2fd8-46c1-b923-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.7018",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8302-2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f9757cb4-3d41-4305-83dc-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "75",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8462-4"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e1862e7e-6ea1-4c88-8125-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "35.8888888888889",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8310-5"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "9f113abc-33d6-433b-9751-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "87996.8",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "3141-9"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "71540c95-392d-4dfd-b6fb-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466528958,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "30.4",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "39156-5"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "03b7889b-b7bc-4136-a3ce-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "136",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8480-6"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "374c6bd6-74fe-46dc-9f01-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "12",
+                "Units": "Breaths Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "9279-1"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "610c0db8-86e2-4493-a97e-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "87",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8867-4"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b30cbdd0-3d61-417e-813c-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.7018",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8302-2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "18b62905-49ce-4285-bcf4-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "75",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8462-4"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b90095ad-7044-461a-b861-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "35.8888888888889",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "8310-5"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "20f711fa-6241-42a4-aac3-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "87996.8",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "3141-9"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "4ee00b09-e73f-401b-ab99-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ObservationDate": 1466583140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "30.4",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "LOINC",
+                "EnumValue": "39156-5"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "13dcbb4f-977a-445f-afc6-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "733186ad-25fa-4ed3-a83d-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "313782"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "acetaminophen 325 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "650 MG Every 6 hours",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "650 mg",
+          "MedicalName": "acetaminophen 325 mg tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "c64b08b1-f426-4af1-a2d6-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "198052"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Ondansetron 4 MG Oral Tablet [Zofran]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Every 8 hours PRN for nausea",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Ondansetron 4 MG Oral Tablet [Zofran]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "08ecebdd-51b6-445e-9e14-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "152695"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "meloxicam 15 MG Oral Tablet [Mobic]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily for postoperative pain.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "meloxicam 15 MG Oral Tablet [Mobic]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "def34cdd-a937-4af6-b898-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Complete Multivitamin oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Complete Multivitamin oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "f6553bb7-879c-48af-90d6-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1112895"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Acidophilus Probiotic oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 capsule Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {CAPSULE}",
+          "MedicalName": "Acidophilus Probiotic oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "2792015a-9840-4938-8544-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1191"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Enteric Coated Aspirin oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "325 mg Daily for 6 weeks after surgery, for blood clot prevention.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "325 mg",
+          "MedicalName": "Enteric Coated Aspirin oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "2752cccb-6bde-46b5-a1e1-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Calcium Magnesium + D oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Calcium Magnesium + D oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "58b4f752-c051-4050-b8e4-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "997420"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Fexofenadine hydrochloride 180 MG Oral Tablet [Allegra]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": " Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "Fexofenadine hydrochloride 180 MG Oral Tablet [Allegra]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "d6ef71a2-ced4-442b-9cce-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "897696"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "hydromorphone 2 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Every 6 hours PRN severe pain.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "hydromorphone 2 mg tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "f1a3ede4-abd2-447c-b577-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1049621"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "oxycodone 5 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 to 2 tablet Every 6 hours PRN for pain.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 ",
+          "MedicalName": "oxycodone 5 mg tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "e134ce7a-e65c-4c73-bde4-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "5640"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Advil",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "200 mg Every 6 hours PRN",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "200 mg",
+          "MedicalName": "Advil",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "e6aade46-4146-4273-bf40-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "161"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "acetaminophen oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "3 tablet Every 6 hours PRN",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "3 {TABLET}",
+          "MedicalName": "acetaminophen oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "f4da8980-b6cf-48e5-b3f9-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "324026"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Allegra",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "180 mg Daily PRN TAKE MORNING OF SURGERY IF NEEDED",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "180 mg",
+          "MedicalName": "Allegra",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "de825f72-a236-45ec-ba0e-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1112895"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Acidophilus Probiotic oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 capsule Daily DO NOT TAKE MORNING OF SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {CAPSULE}",
+          "MedicalName": "Acidophilus Probiotic oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "45fddd69-2f43-484b-9d4d-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1897"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Calcium 500 oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily DO NOT TAKE MORNING OF SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Calcium 500 oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "b08e3630-dc19-4a85-a8ad-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "6574"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "magnesium oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "250 mg Daily DO NOT TAKE MORNING OF SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "250 mg",
+          "MedicalName": "magnesium oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466514592,
+          "CreatedDate": 1466514592,
+          "Id": "06214321-14cd-4909-a6c4-a62c00d8f1f3",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1237110"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "NyQuil D oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 liquid Daily PRN MAY USE NIGHT BEFORE SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 ",
+          "MedicalName": "NyQuil D oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "6aaeb0df-2c41-49b4-be7a-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "313782"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "acetaminophen 325 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "650 MG Every 6 hours",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "650 mg",
+          "MedicalName": "acetaminophen 325 mg tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "ffb5f836-61d1-460b-8203-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "198052"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Ondansetron 4 MG Oral Tablet [Zofran]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Every 8 hours PRN for nausea",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Ondansetron 4 MG Oral Tablet [Zofran]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "9f3ba65f-2620-4323-93ec-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "152695"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "meloxicam 15 MG Oral Tablet [Mobic]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily for postoperative pain.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "meloxicam 15 MG Oral Tablet [Mobic]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "4b621d93-8859-4486-aecf-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Complete Multivitamin oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Complete Multivitamin oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "c55d41cd-b39a-404b-aacc-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1112895"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Acidophilus Probiotic oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 capsule Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {CAPSULE}",
+          "MedicalName": "Acidophilus Probiotic oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "eb142836-489b-4752-a2ee-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1191"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Enteric Coated Aspirin oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "325 mg Daily for 6 weeks after surgery, for blood clot prevention.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "325 mg",
+          "MedicalName": "Enteric Coated Aspirin oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "f24aabfd-e13e-4875-9373-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Calcium Magnesium + D oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Calcium Magnesium + D oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "3fafbf39-6cd9-4e60-af5d-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "997420"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Fexofenadine hydrochloride 180 MG Oral Tablet [Allegra]",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": " Daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "Fexofenadine hydrochloride 180 MG Oral Tablet [Allegra]",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "c7df33c9-6871-40eb-b1ce-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "897696"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "hydromorphone 2 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Every 6 hours PRN severe pain.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "hydromorphone 2 mg tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "9ee98a8a-9b16-40ea-8b64-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1049621"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "oxycodone 5 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 to 2 tablet Every 6 hours PRN for pain.",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 ",
+          "MedicalName": "oxycodone 5 mg tablet",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "8e2139f2-c54c-4e4c-86c6-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "5640"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Advil",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "200 mg Every 6 hours PRN",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "200 mg",
+          "MedicalName": "Advil",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "d01b9bfa-a7bf-442b-845b-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "161"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "acetaminophen oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "3 tablet Every 6 hours PRN",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "3 {TABLET}",
+          "MedicalName": "acetaminophen oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "13a1f022-0897-4f53-9804-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "324026"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Allegra",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "180 mg Daily PRN TAKE MORNING OF SURGERY IF NEEDED",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "180 mg",
+          "MedicalName": "Allegra",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "38157626-8ffe-46b8-974e-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1112895"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Acidophilus Probiotic oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 capsule Daily DO NOT TAKE MORNING OF SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {CAPSULE}",
+          "MedicalName": "Acidophilus Probiotic oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "507498bb-d16f-4be5-a20b-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1897"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Calcium 500 oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 tablet Daily DO NOT TAKE MORNING OF SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 {TABLET}",
+          "MedicalName": "Calcium 500 oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "ce2378fb-38bb-46d3-b893-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "6574"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "magnesium oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "250 mg Daily DO NOT TAKE MORNING OF SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "250 mg",
+          "MedicalName": "magnesium oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1466568767,
+          "CreatedDate": 1466568767,
+          "Id": "4189fd31-b062-44d2-8237-a62d00456e87",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "1237110"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "NyQuil D oral",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 liquid Daily PRN MAY USE NIGHT BEFORE SURGERY",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": "AEROSOL",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1 ",
+          "MedicalName": "NyQuil D oral",
+          "CommonName": null,
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": [
+        {
+          "SocialBehavior": null,
+          "Name": "Smoking Status: Never",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Smoking Status: Never",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "ffa64596-3ef9-4d00-b5a6-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Smoking Status: Never",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Smoking Status: Never",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "80a579ea-bc4f-4f86-bcd9-a62d00456e87",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        }
+      ]
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": [
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "HYSTERECTOMY",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f284e607-c492-4adf-adcf-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "LEFT INTRA-ARTICULAR HIP INJECTION UNDER FLUOROSCOPY",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "afd5c2be-68d3-4b30-8484-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "LEFT HIP ARTHROPLASTY TOTAL REPLACEMENT ANTERIOR",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5544f254-2e3f-4ee5-9e10-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "HYSTERECTOMY",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "57f01f8e-0ea3-45bb-955f-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "LEFT INTRA-ARTICULAR HIP INJECTION UNDER FLUOROSCOPY",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "14009afe-7ed5-4dd6-ba23-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        },
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "LEFT HIP ARTHROPLASTY TOTAL REPLACEMENT ANTERIOR",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e6946ce9-747e-4c1f-ad91-a62d00456e8c",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        }
+      ]
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Osteoarthritis of hip",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "239872002"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "Osteoarthritis of hip",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "091d3f81-7690-42e9-abe8-a62c00d8f1f3",
+          "CreatedDate": 1466514592,
+          "LastModifiedDate": 1466514592
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Osteoarthritis of hip",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "239872002"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "Osteoarthritis of hip",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "6f067d0a-068d-43c9-b8e0-a62d00456e87",
+          "CreatedDate": 1466568767,
+          "LastModifiedDate": 1466568767
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "660820397",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Other",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "chastity",
+    "LastName": "farrell",
+    "MiddleName": "middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "61016",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -380419200,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -88.9619,
+    "Latitude": 42.2206
+  },
+  "Id": 0,
+  "CreatedDate": 1471465228,
+  "LastModifiedDate": 1471465228,
+  "ExtIds": [],
+  "id": "4fbecf61-d4be-4118-9d72-3d9949b82b86"
+}

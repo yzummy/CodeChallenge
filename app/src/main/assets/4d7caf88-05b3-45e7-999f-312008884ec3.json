@@ -1,0 +1,2069 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": "United_States"
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "a70226b4-9013-45c5-b6b7-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "8711"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Folic Acid 800 MCG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": null,
+          "AdministrationStopped": -62135596800,
+          "Administered": 1329767975,
+          "Form": "TABS",
+          "Strength": "800",
+          "Units": "MCG",
+          "Dose": null,
+          "MedicalName": "Folic Acid 800 MCG Oral Tablet",
+          "CommonName": "Folic Acid",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "d2b14a86-4283-4b5e-a79c-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "83000"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "59627000205"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Avonex Prefilled 30 MCG/0.5ML Intramuscular Kit",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Inject 0.5 Ml Intramuscularly Once Weekly.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "KIT",
+          "Strength": "30",
+          "Units": "MCG/0.5ML",
+          "Dose": "0.0714",
+          "MedicalName": "Avonex Prefilled 30 MCG/0.5ML Intramuscular Kit",
+          "CommonName": "Avonex Prefilled",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "98a1acb0-fb09-4f6b-afa1-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "14147"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "58016941101"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Mycolog II CREA",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Apply Sparingly To Affected Area(s) 3 Times A Day.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Mycolog II CREA",
+          "CommonName": "Mycolog II",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "f1512bb1-7f97-4d7d-9b9b-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "12000"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68115020030"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Levothyroxine Sodium 75 MCG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "75",
+          "Units": "MCG",
+          "Dose": "1",
+          "MedicalName": "Levothyroxine Sodium 75 MCG Oral Tablet",
+          "CommonName": "Levothyroxine Sodium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "e2801058-53d0-4491-a41c-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "3872"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "62584063911"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 2 Tablet Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CHEW",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "CommonName": "CarBAMazepine",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "b3dd394d-aabc-4292-87cf-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "33742"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66116043730"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Estradiol 0.5 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take One (1) Tablet(s) Daily As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "0.5",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Estradiol 0.5 MG Oral Tablet",
+          "CommonName": "Estradiol",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1447181283,
+          "CreatedDate": 1447181283,
+          "Id": "be14880f-dca3-479a-a7b4-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "68195"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "76439013120"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Alendronate Sodium 70 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet By Mouth Weekly.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "70",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Alendronate Sodium 70 MG Oral Tablet",
+          "CommonName": "Alendronate Sodium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "64341d6b-0499-4fd1-94cc-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "14432"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68462019005"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Naproxen 500 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 2 Tablet Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "500",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "Naproxen 500 MG Oral Tablet",
+          "CommonName": "Naproxen",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "4527f0de-d7ea-47b8-945a-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "12002"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66336075230"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Levothyroxine Sodium 125 MCG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "125",
+          "Units": "MCG",
+          "Dose": "1",
+          "MedicalName": "Levothyroxine Sodium 125 MCG Oral Tablet",
+          "CommonName": "Levothyroxine Sodium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "b558eca9-3159-43a2-a7b1-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "5574"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "54868222800"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Cyclocort 0.1 % CREA",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Apply Sparingly To Affected Area(s) 3 Times A Day.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": "0.1",
+          "Units": "%",
+          "Dose": "1",
+          "MedicalName": "Cyclocort 0.1 % CREA",
+          "CommonName": "Cyclocort",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "0dc71e79-d5db-4c86-8ee4-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "14432"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68462019005"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Naproxen 500 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take One (1) Tablet(s) Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "500",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Naproxen 500 MG Oral Tablet",
+          "CommonName": "Naproxen",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "d782125e-6d3e-4b00-a546-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "3872"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "62584063911"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Chew Two (2) Tablet(s) Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CHEW",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "CommonName": "CarBAMazepine",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "168e11ff-2381-4886-9a5e-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "55937"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "54868425001"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Prometrium 100 MG Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take One (1) Capsule(s) Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Prometrium 100 MG Oral Capsule",
+          "CommonName": "Prometrium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "fb0a0be7-a67d-4cd1-99f4-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "91637"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68387048730"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Lunesta 3 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet At Bedtime.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "3",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Lunesta 3 MG Oral Tablet",
+          "CommonName": "Lunesta",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "ad7cc05c-1c78-44ff-9a7e-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "27521"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "55289021522"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "FLUoxetine HCl - 20 MG Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Capsule Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": "20",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "FLUoxetine HCl - 20 MG Oral Capsule",
+          "CommonName": "FLUoxetine HCl",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "985723fb-a57e-4f6a-928d-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "15381"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66267095315"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nystatin 100000 UNIT/GM External Cream",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Apply 2-3 Times Daily To Affected Area(s).",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": "100000",
+          "Units": "UNIT/GM",
+          "Dose": "3",
+          "MedicalName": "Nystatin 100000 UNIT/GM External Cream",
+          "CommonName": "Nystatin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "6b20ddbe-43f8-45a1-ab62-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "66482"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00904585692"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Calcium + D 600-200 MG-UNIT TABS",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "600-200",
+          "Units": "MG-UNIT",
+          "Dose": "1",
+          "MedicalName": "Calcium + D 600-200 MG-UNIT TABS",
+          "CommonName": "Calcium + D",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "804bb2f7-2f3b-4bb2-9b4c-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "23636"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "94604021230"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Vitamin C 1000 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "1000",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Vitamin C 1000 MG Oral Tablet",
+          "CommonName": "Vitamin C",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "b564d19f-d5e3-4297-97c6-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "14033"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "38485012042"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Multivitamins Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Capsule Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Multivitamins Oral Capsule",
+          "CommonName": "Multivitamins",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "9c4935c6-c00b-4753-9cc8-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "1925"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "90389001751"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Aspirin 325 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take One Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "325",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Aspirin 325 MG Oral Tablet",
+          "CommonName": "Aspirin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "9788e90e-8f98-4004-8171-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "12000"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66336084930"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Levothyroxine Sodium 75 MCG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take One (1) Tablet(s) Daily As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "75",
+          "Units": "MCG",
+          "Dose": "0",
+          "MedicalName": "Levothyroxine Sodium 75 MCG Oral Tablet",
+          "CommonName": "Levothyroxine Sodium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "187fabc6-8996-4d04-af64-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "15393"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66267095015"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nystatin-Triamcinolone 100000-0.1 UNIT/GM-% External Cream",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Apply Sparingly To Affected Area(s) Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": "100000-0.1",
+          "Units": "UNIT/GM-%",
+          "Dose": "2",
+          "MedicalName": "Nystatin-Triamcinolone 100000-0.1 UNIT/GM-% External Cream",
+          "CommonName": "Nystatin-Triamcinolone",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "f723f2cf-e6e8-4374-ad66-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "25917"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68387019040"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Cephalexin 500 MG Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Capsule 3 Times Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": "500",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Cephalexin 500 MG Oral Capsule",
+          "CommonName": "Cephalexin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "f96e72f0-db2d-4469-9bfd-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "3872"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66336084130"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Chew Two (2) Tablet(s) Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CHEW",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "CommonName": "CarBAMazepine",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "625a03cc-a37d-43b3-b9a8-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "158148"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "31604002585"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Vitamin D CAPS",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": null,
+          "Units": null,
+          "Dose": "0",
+          "MedicalName": "Vitamin D CAPS",
+          "CommonName": "Vitamin D",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "382cbd8e-6a5b-4e25-be68-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "23666"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "96121000262"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Vitamin D 400 UNIT Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 2 Capsule Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": "400",
+          "Units": "UNIT",
+          "Dose": "2",
+          "MedicalName": "Vitamin D 400 UNIT Oral Capsule",
+          "CommonName": "Vitamin D",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "d8b3cf11-7910-4225-b978-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "3872"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "62584063911"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Chew Two Tablets By Mouth Twice A Day.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CHEW",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "CarBAMazepine 100 MG Oral Tablet Chewable",
+          "CommonName": "CarBAMazepine",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451341284,
+          "CreatedDate": 1451341284,
+          "Id": "eec1a3b2-0ef7-4020-9364-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "14432"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "69512019010"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Naproxen 500 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take One Tablet By Mouth Twice A Day.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "500",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Naproxen 500 MG Oral Tablet",
+          "CommonName": "Naproxen",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1445620315,
+          "CreatedDate": 1445620315,
+          "Id": "01ac7481-b926-4137-887a-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "12001"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788916403"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Levothyroxine Sodium 100 MCG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet By Mouth Every Day.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "100",
+          "Units": "MCG",
+          "Dose": "0",
+          "MedicalName": "Levothyroxine Sodium 100 MCG Oral Tablet",
+          "CommonName": "Levothyroxine Sodium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "8e326c39-9b37-4cd5-9b16-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "24615"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00168027860"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Amcinonide 0.1 % External Cream",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Apply As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": "0.1",
+          "Units": "%",
+          "Dose": "0",
+          "MedicalName": "Amcinonide 0.1 % External Cream",
+          "CommonName": "Amcinonide",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "f2068c0a-9678-41b6-be85-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "76501"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68258605303"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Diovan HCT 160-25 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "160-25",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Diovan HCT 160-25 MG Oral Tablet",
+          "CommonName": "Diovan HCT",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "eb7756c0-2f1e-4a1f-b8d5-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "15393"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66267095015"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nystatin-Triamcinolone 100000-0.1 UNIT/GM-% External Cream",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Use As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": "100000-0.1",
+          "Units": "UNIT/GM-%",
+          "Dose": "1",
+          "MedicalName": "Nystatin-Triamcinolone 100000-0.1 UNIT/GM-% External Cream",
+          "CommonName": "Nystatin-Triamcinolone",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1449528378,
+          "CreatedDate": 1449528378,
+          "Id": "a9756f62-5a55-403d-8bdb-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "31765"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788990509"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Zolpidem Tartrate 10 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet By Mouth Every Night At Bedtime.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "10",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Zolpidem Tartrate 10 MG Oral Tablet",
+          "CommonName": "Zolpidem Tartrate",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "518b61ac-7dcb-4aec-a01f-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "20506"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788950004"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Sulfamethoxazole-TMP DS 800-160 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "800-160",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "Sulfamethoxazole-TMP DS 800-160 MG Oral Tablet",
+          "CommonName": "Sulfamethoxazole-TMP DS",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1443482719,
+          "CreatedDate": 1443482719,
+          "Id": "da09bf91-8649-4643-af55-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "30566"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66105074918"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Ranitidine HCl - 150 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Twice Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "150",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "Ranitidine HCl - 150 MG Oral Tablet",
+          "CommonName": "Ranitidine HCl",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1454939013,
+          "CreatedDate": 1454939013,
+          "Id": "8593f6d8-1927-43a8-b52e-a521012f9623",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "10190"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788992003"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Hydrochlorothiazide 25 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet By Mouth Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "25",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Hydrochlorothiazide 25 MG Oral Tablet",
+          "CommonName": "Hydrochlorothiazide",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": []
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "945880442",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Spouse",
+  "ResponsiblePartyRelationship": "Other",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Lev",
+    "LastName": "Murphy",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "22313",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -545529600,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -77.09,
+    "Latitude": 38.8158
+  },
+  "Id": 0,
+  "CreatedDate": 1471467469,
+  "LastModifiedDate": 1471467469,
+  "ExtIds": [],
+  "id": "4d7caf88-05b3-45e7-999f-312008884ec3"
+}

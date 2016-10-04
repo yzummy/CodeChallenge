@@ -1,0 +1,673 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1447769340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "2.26",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f6196b8f-5037-47e0-a8cd-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "ObservationDate": 1447769340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "40.72",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f2f4b720-b9fa-4a41-b77a-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "ObservationDate": 1447769340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "117940",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1f23f49a-c0de-4576-9fbc-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "ObservationDate": 1447769340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.7018",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "03e7cc8b-0c4d-4d81-9443-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1450380957,
+          "CreatedDate": 1450380957,
+          "Id": "5677caf6-9947-4987-9a7a-a57100f09737",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "74680"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68308084301"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Oxycodone-Acetaminophen 10-325 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Every 4-6 Hours Prn For Pain.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "10-325",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Oxycodone-Acetaminophen 10-325 MG Oral Tablet",
+          "CommonName": "Oxycodone-Acetaminophen",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": [
+        {
+          "SocialBehavior": null,
+          "Name": "Never a smoker",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "266919005"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "7ca08559-3e5b-451f-a5a8-a57100f0973c",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "No alcohol use",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "105542008"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "194d4624-9951-4dff-a7e8-a57100f0973c",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "No drug use",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "228367002"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "4a2aec8a-1b50-48e3-b989-a57100f0973c",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        }
+      ]
+    },
+    "FamilyProblems": {
+      "Collection": [
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Maternal"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "Family history of hypertension",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V17.49"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "160357008"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "7e1401f9-7443-4b43-926a-a57100f0973c",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Unknown"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "Family history of diabetes mellitus",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V18.0"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "160303001"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "664eb2a3-aa23-43f3-964c-a57100f0973c",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        }
+      ]
+    },
+    "SurgicalProcedures": {
+      "Collection": [
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "History Of Prior Surgery",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "MEDCIN",
+                "EnumValue": "4440"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Denied"
+          },
+          "WipStatus": null,
+          "Id": "c772e8a3-f5d4-4149-8081-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        }
+      ]
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "History of asthma",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V12.69"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "161527007"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Resolved"
+          },
+          "WipStatus": null,
+          "Id": "0cf85760-56d6-43bd-8765-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Laceration of left Achilles tendon",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "892.2"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "240037007"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "38d47d9c-5064-4469-9ba4-a57100f09737",
+          "CreatedDate": 1450380957,
+          "LastModifiedDate": 1450380957
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Laceration of left Achilles tendon, subsequent encounter",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V58.89"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "240037007"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "37128bdb-470f-4e4b-bb7b-a57100f09737",
+          "CreatedDate": 1458563512,
+          "LastModifiedDate": 1458563512
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "607953339",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Other",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Basia",
+    "LastName": "Buck",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Male"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "80951",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 620697600,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -104.6556,
+    "Latitude": 38.8881
+  },
+  "Id": 0,
+  "CreatedDate": 1471465174,
+  "LastModifiedDate": 1471465174,
+  "ExtIds": [],
+  "id": "4df306b1-4eac-4367-82d1-9da9d26e2b42"
+}

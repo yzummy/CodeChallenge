@@ -1,0 +1,4289 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": [
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 982994400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*DTaP",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "106"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e8b34041-ecf4-46ba-8560-a59100c37db4",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 987742800,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*DTaP",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "106"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8d0ee0bd-b772-4706-aa12-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 993531600,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*DTaP",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "106"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "82ca2362-f4e9-466c-951d-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1013148000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*DTaP",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "106"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b99cce07-dfe2-4ec4-a9a7-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1105682400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*DTaP",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "106"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "9a2fa671-18ce-4198-a431-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1262844000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Varicella",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "21"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ee516f89-4475-4b25-9481-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1042869600,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hepatitis A (pediatric)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "104"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "91847544-d7e4-4860-bdd1-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1090386000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hepatitis A (pediatric)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "104"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a6a831f3-f8de-4325-a21f-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1357314900,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Left Deltoid",
+          "Manufacturer": "Sanofi Pasteur",
+          "Series": null,
+          "Dose": "0.5",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Tdap",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "115"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "be2b4b39-e9c0-4571-9671-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1357314900,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Right Deltoid",
+          "Manufacturer": "Sanofi Pasteur",
+          "Series": null,
+          "Dose": "0.5",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Menactra",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "114"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "bd06f383-fdb2-47cb-87f6-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1357314900,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Left Deltoid",
+          "Manufacturer": "Merck & Co.",
+          "Series": null,
+          "Dose": "0.5",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*HPV",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "62"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5f5ad982-e51c-4bd6-936f-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 977205600,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hepatitis B (pediatric)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "43"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "047c7787-6525-4f72-8ce6-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 983253600,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hepatitis B (pediatric)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "43"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1c26582f-04fe-4592-a991-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1000962000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hepatitis B (pediatric)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "43"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2e3a6b79-7df8-4e93-9c70-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 982994400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hib",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "48"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2b0063c1-64c6-4e38-8792-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 987742800,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hib",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "48"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "4260c0b2-c9bd-4f6a-8f5b-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 993531600,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hib",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "48"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2b9c3ec7-2d00-487d-9ded-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1013148000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Hib",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "48"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0ffbb739-309a-4f2d-a049-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 982994400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Prevnar",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "133"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "06e92894-6b6b-4857-8150-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 987742800,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Prevnar",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "133"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "61a3996b-d777-48d5-838f-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 993531600,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Prevnar",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "133"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7dd80f77-b390-4ae9-9241-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1013148000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Prevnar",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "133"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8cba7367-de86-4faa-8632-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 982994400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*IPV",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "10"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d12b0a87-4591-4d75-ac71-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 987742800,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*IPV",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "10"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "884fe818-d15f-4cec-92ef-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1000962000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*IPV",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "10"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "6ae5996f-fc9b-4684-b2c3-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1105682400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*IPV",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "10"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "35567859-81bf-41ba-a6aa-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1013148000,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*MMR",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "03"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b95a07c7-5c91-4b2a-b8e0-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1105682400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*MMR",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "03"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7a0e8a3b-e460-47ab-be8f-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1105682400,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": null,
+          "SiteOfInjection": null,
+          "Manufacturer": null,
+          "Series": null,
+          "Dose": null,
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Varicella",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "21"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a25a15ec-1bde-4601-bce7-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1411504560,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Left Deltoid",
+          "Manufacturer": "Sanofi Pasteur",
+          "Series": null,
+          "Dose": "0.5",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Influenza, Quadrivalent >3",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "140"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a572cb52-7b38-4943-91f1-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1411504560,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Left Deltoid",
+          "Manufacturer": "Merck & Co.",
+          "Series": null,
+          "Dose": "0.5 ml",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*HPV",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "62"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e4c31964-4221-4462-83f2-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        },
+        {
+          "OrderId": "00000000-0000-0000-0000-000000000000",
+          "AdministeredDate": 1453138440,
+          "AdministeringProvider": null,
+          "OrderingProvider": null,
+          "LotId": null,
+          "LotExpirationDate": -62135596800,
+          "RouteOfAdministration": "Intramuscular",
+          "SiteOfInjection": "Left Deltoid",
+          "Manufacturer": "SANOFI PASTEUR",
+          "Series": null,
+          "Dose": "0.5ml",
+          "DoseUnit": null,
+          "ReasonDeclined": null,
+          "IsDeclined": null,
+          "DeclinedDate": null,
+          "Reactions": [],
+          "Name": "*Pedi Influenza Quad (PFS) >3 yrs",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CVX",
+                "EnumValue": "150"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ImmunizationStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f1116aed-4e8d-4484-92c3-a59100c37db9",
+          "CreatedDate": 1453139505,
+          "LastModifiedDate": 1453139505
+        }
+      ]
+    },
+    "Orders": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1453139894,
+          "CreatedDate": 1453139894,
+          "Id": "62e666a1-a263-496d-9889-a59100c544fc",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Lipid Panel",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1434374940,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "198",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Cholesterol, Total",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c0b86b32-c86c-4801-9196-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              },
+              {
+                "ObservationDate": 1434374940,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "88",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Triglycerides",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8415a08a-e4e4-4905-8d68-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              },
+              {
+                "ObservationDate": 1434374940,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "78",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Cholesterol, HDL",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "35ca70eb-55c9-4a25-8e87-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              },
+              {
+                "ObservationDate": 1434374940,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "2.5",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Chol/HDL Ratio",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c7df5c75-948e-474d-9a05-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              },
+              {
+                "ObservationDate": 1434374940,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "93",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Direct LDL",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "45e0f816-f446-419d-9c2d-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              }
+            ]
+          },
+          "OrderDate": 1434387834
+        },
+        {
+          "LastModifiedDate": 1453139894,
+          "CreatedDate": 1453139894,
+          "Id": "ae80d8b0-d488-4464-8621-a59100c544fc",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Cholesterol, Total",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1369393260,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "190",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Cholesterol, Total",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "602122d4-1e85-4b96-b3ca-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              }
+            ]
+          },
+          "OrderDate": 1369424552
+        },
+        {
+          "LastModifiedDate": 1453139894,
+          "CreatedDate": 1453139894,
+          "Id": "35f672ea-5069-4efc-ba5d-a59100c544fc",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Hematocrit (Hct)",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1369393260,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "38.2",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hematocrit",
+                "NomenclatureIds": [],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9a8ff5fc-f7f4-4f3c-98f1-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              }
+            ]
+          },
+          "OrderDate": 1369424552
+        },
+        {
+          "LastModifiedDate": 1453139894,
+          "CreatedDate": 1453139894,
+          "Id": "2f1f48c5-2b84-43b4-a895-a59100c544fc",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Hemoglobin (Hgb)",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1369393260,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "Hemoglobin",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "718-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": null,
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "e4692cff-b4e1-4807-b3ba-a59100c544fc",
+                "CreatedDate": 1453139894,
+                "LastModifiedDate": 1453139894
+              }
+            ]
+          },
+          "OrderDate": 1369424552
+        }
+      ]
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1298673000,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36741.6",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "c5e46148-8943-4219-b1a6-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "38102.4",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "9caae244-ba39-4c02-a08a-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1345298520,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "43550",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7314a9d7-840a-4ba0-97dd-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "41280",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "050af81e-fc1c-4371-9aba-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "43550",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "240ccdbd-eebd-473a-9f45-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "44000",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ea853518-6de3-4387-9e0c-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "44910",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "724e13c9-cf9e-41ee-9bfa-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1298673000,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "37.16667",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0575f399-c788-47aa-8218-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.27778",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ebd814af-2bb4-475f-b9ee-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1345298520,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.83",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8af5ed3a-5624-4cc1-993b-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "37.11",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8305d395-21f5-43f2-a45c-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.67",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "501edcb3-78b9-4ec0-9f66-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.78",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ad65077e-3a66-442b-b55a-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.83",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8bc23efa-cbee-421c-8461-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1298673000,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "96",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "cfc2aed7-e8d4-4e2e-ad2c-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "99",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2b4912f6-f0e4-4a06-8251-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "100",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8b4376ec-32db-4eaa-9331-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "100",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f77ed59b-5530-4683-83c7-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "96",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "76ee75cb-566f-4b96-9dbd-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "98",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "693ec257-c198-499c-8a3c-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1298673000,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "60",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b5bb2eaa-fcd8-4180-8c7f-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "60",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e2d3aaa3-5e85-4e53-af83-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "60",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a706f3ac-8fa7-479d-9712-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "76",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "fd596b80-d82b-4ad0-a130-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "60",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8f5350e2-5313-4349-bf00-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "60",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "fe828e71-de78-4fd7-bc9b-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "20/20",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Vision",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Vision",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "51e28065-9dae-4068-9cba-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "PASS@25",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Hearing",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Hearing",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "948f838a-0384-487b-ac01-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "R 20/20, L 20/20",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Vision",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Vision",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ef8ce809-b883-4752-9936-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "PASSED@25",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Hearing",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Hearing",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ff5b8a2a-5809-492f-8cca-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1298673000,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "65",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ec7e02df-ab3b-4b3b-b26b-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "66",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "BMI Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "53561ce4-2226-4b87-9e89-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "64",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e951585e-90d5-4b2c-9ab7-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "66",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Stature Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2acff1c4-7dbb-4a16-a3c7-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1345298520,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "64",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "38eeec5c-1809-47e8-9fd0-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "50",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "BMI Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "cd80c01c-e7ea-49a8-9a8d-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "47",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d257451d-be11-4afa-aad8-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "48",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Stature Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0fc67ad3-7878-40c6-ab04-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "37",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "56db4a48-7e05-4a16-9c8a-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "GLASSES",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Vision",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Vision",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "01d8d706-69b2-4efa-bcda-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "PASSED@25",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Hearing",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Hearing",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1bcbba49-d93f-43f1-956c-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "27Aug2014",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "LMP",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "LMP",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f17e7d06-07e2-488d-ab9c-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "43",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "BMI Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "c54de64b-d179-408f-b621-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "29",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d7bf9dff-dfd6-4b13-bb83-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "17",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Stature Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1ea77666-d1e4-4887-8831-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "23Dec2015",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "LMP",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "LMP",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "9383f3b7-6ff4-4a37-a68b-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "GLASSES",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Vision",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Vision",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5e86739c-42e8-454c-ba12-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "PASSED@25",
+                "Units": null,
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Hearing",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Hearing",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b4e49e60-155c-41d0-a1bd-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "28",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "BMI Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "70fd25a5-fb18-4bfc-8493-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "17",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Weight Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "52b353c2-c76f-4e8e-8a68-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "19",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height Weight BMI BSA",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "2-20 Stature Percentile",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "85af2c0b-4d71-4321-9f98-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.24",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2ca6e7f5-4a76-42ea-9498-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.33",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "307dc06d-7b60-45ce-8af9-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.38",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ce12aa0f-87cd-42b6-8f53-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.41",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a5c53696-8c66-4807-a09f-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "18.34",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "59b4bcd8-1a23-49c9-b34a-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "18.1",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d8e627fd-8240-46a9-b53d-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "18.68",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d92e7c12-76c9-4700-a6b3-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "18.38",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "29d15191-61ec-4c7c-bfcf-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.44145",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b04ddd74-abf4-4c16-9f41-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.5131",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8cdf5005-c89e-459f-af8a-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.5349",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d8cbf9f8-b5ef-4662-a50a-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.5631",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "73719c57-8ca9-4b18-ac0f-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "18",
+                "Units": "Breaths Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "450aa9b0-ddb4-4329-9f1e-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1309277580,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "89",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "506a7a7c-9cc0-4784-b742-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1345298520,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "80",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "448ca055-e885-4dd7-bdb3-a59100c39469",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "75",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a43144e8-b6d7-4450-9c2b-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "75",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "358953ca-a93c-41e3-980c-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "73",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "4067f510-a9fc-4419-a5f5-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "76",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "00e4dcae-d3cb-4b3d-993c-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1357312320,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "98",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Oxygen Saturation",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "55c2a785-b39e-44ef-95e0-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1392049860,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "99",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Oxygen Saturation",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2cdec684-aa28-40e8-8f41-a59100c3946e",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1411501140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "98",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Oxygen Saturation",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2d88ed05-8bd3-4adc-9122-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        },
+        {
+          "ObservationDate": 1453133340,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "98",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Oxygen Saturation",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "aef47ae0-7e33-4552-b974-a59100c39498",
+          "CreatedDate": 1453139525,
+          "LastModifiedDate": 1453139525
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1453139524,
+          "CreatedDate": 1453139524,
+          "Id": "f88440dd-4d3b-497f-9925-a59100c3942c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "30791"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "76282021405"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Sertraline HCl - 100 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": null,
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": null,
+          "MedicalName": "Sertraline HCl - 100 MG Oral Tablet",
+          "CommonName": "Sertraline HCl",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": []
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "798593068",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Other",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Colleen",
+    "LastName": "England",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "71429",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 977184000,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -93.5179,
+    "Latitude": 31.4275
+  },
+  "Id": 0,
+  "CreatedDate": 1471466728,
+  "LastModifiedDate": 1471466728,
+  "ExtIds": [],
+  "id": "4dfcbdc1-d4e5-4394-acee-1ba72efe2835"
+}

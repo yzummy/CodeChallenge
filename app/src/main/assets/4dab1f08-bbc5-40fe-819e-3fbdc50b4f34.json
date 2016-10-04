@@ -1,0 +1,1352 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "96",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Oxygen Saturation",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2885e5bb-02df-40fd-b36d-a57d00eabb5a",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "96",
+                "Units": "%",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Oxygen Saturation",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "08d76f7f-48bf-44fa-ab0b-a57d00eabb5c",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "66",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "6f8a7a41-6147-4340-a8c9-a57d00eabb5b",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "78",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "24abf6dc-1764-4b34-a142-a57d00eabb5c",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "16",
+                "Units": "Breaths Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f538cd77-ae3c-4663-9760-a57d00eabb5b",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "14",
+                "Units": "Breaths Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "29dce0be-433c-449f-ac68-a57d00eabb5c",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "128",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "883f78d8-033f-4106-94bb-a57d00eabb5b",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "110",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7062cb6b-b139-41c0-8941-a57d00eabb5c",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "77",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "fa0f785d-9bae-4d06-b728-a57d00eabb5b",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "60",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "472e2cfb-e920-4fb5-a599-a57d00eabb5c",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.22",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3c6f731f-814f-4716-a49d-a57d00eabb5b",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "36.61",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5093e83a-6c6a-4a1d-ba1a-a57d00eabb5d",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1426597140,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "67810",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "bee946b9-dd34-444b-b83e-a57d00eabb5c",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "68490",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "be8dccbf-fb5b-4722-a807-a57d00eabb5e",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.85",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3ef66260-7b79-4336-a677-a57d00eabb5d",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "21.67",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "28930235-77a3-491b-a8a3-a57d00eabb5d",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        },
+        {
+          "ObservationDate": 1450810620,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "1.778",
+                "Units": "m",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d010fa89-f75e-44fe-8bef-a57d00eabb5e",
+          "CreatedDate": 1451416477,
+          "LastModifiedDate": 1451416477
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1451646320,
+          "CreatedDate": 1451646320,
+          "Id": "13d9176f-65ef-4f39-8f01-a58000645816",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "54384"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Cefdinir 300 MG Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "TAKE 1 CAPSULE EVERY 12 HOURS DAILY.",
+          "AdministrationStopped": -62135596800,
+          "Administered": 1451628083,
+          "Form": "CAPS",
+          "Strength": "300",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "Cefdinir 300 MG Oral Capsule",
+          "CommonName": "Cefdinir",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451819228,
+          "CreatedDate": 1451819228,
+          "Id": "6c0561f0-7861-4c5e-bd7e-a5820064d656",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "123758"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Guaifenesin-Codeine 100-10 MG/5ML Oral Syrup",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "TAKE 5 ML Every 6  hours PRN",
+          "AdministrationStopped": -62135596800,
+          "Administered": 1451800883,
+          "Form": "SYRP",
+          "Strength": "100-10",
+          "Units": "MG/5ML",
+          "Dose": "0",
+          "MedicalName": "Guaifenesin-Codeine 100-10 MG/5ML Oral Syrup",
+          "CommonName": "Guaifenesin-Codeine",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451416477,
+          "CreatedDate": 1451416477,
+          "Id": "52491dec-6ad3-41f1-b2c8-a57d00eabb54",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "17891"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788967906"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Promethazine HCl - 25 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet 3 Times Daily As Needed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "25",
+          "Units": "MG",
+          "Dose": "3",
+          "MedicalName": "Promethazine HCl - 25 MG Oral Tablet",
+          "CommonName": "Promethazine HCl",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451416477,
+          "CreatedDate": 1451416477,
+          "Id": "7b21f4c5-1b31-46fa-abf3-a57d00eabb55",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "8453"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "81131031261"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Fish Oil 1000 MG Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Capsule Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": "1000",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Fish Oil 1000 MG Oral Capsule",
+          "CommonName": "Fish Oil",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451416477,
+          "CreatedDate": 1451416477,
+          "Id": "f852ace3-516a-4a4d-9bff-a57d00eabb55",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "87593"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "33358024930"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Multi-Day Vitamins Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Multi-Day Vitamins Oral Tablet",
+          "CommonName": "Multi-Day Vitamins",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451416477,
+          "CreatedDate": 1451416477,
+          "Id": "7531d352-2261-42bc-bf59-a57d00eabb55",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "54384"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68820006306"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Cefdinir 300 MG Oral Capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Capsule Every 12 Hours Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CAPS",
+          "Strength": "300",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "Cefdinir 300 MG Oral Capsule",
+          "CommonName": "Cefdinir",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451416477,
+          "CreatedDate": 1451416477,
+          "Id": "0da42d97-8ec8-470e-8738-a57d00eabb56",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "17548"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788917808"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "PredniSONE 10 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 6 Tablets Today, Then Decrease By 1 Tablet Each Day Until Gone.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "10",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "PredniSONE 10 MG Oral Tablet",
+          "CommonName": "PredniSONE",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1451416477,
+          "CreatedDate": 1451416477,
+          "Id": "8b892c71-49e8-44c1-8740-a57d00eabb56",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "123758"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "63874021148"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Guaifenesin-Codeine 100-10 MG/5ML Oral Syrup",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 5 Ml Every 6  Hours Prn.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "SYRP",
+          "Strength": "100-10",
+          "Units": "MG/5ML",
+          "Dose": "0",
+          "MedicalName": "Guaifenesin-Codeine 100-10 MG/5ML Oral Syrup",
+          "CommonName": "Guaifenesin-Codeine",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": [
+        {
+          "SocialBehavior": null,
+          "Name": "Never a smoker",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "266919005"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "1c40cd9c-816d-4013-ac23-a57d00eab86e",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Occasional alcohol use",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "228276006"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "85bca79c-85d8-4d87-a6da-a57d00eab86e",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        }
+      ]
+    },
+    "FamilyProblems": {
+      "Collection": [
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Maternal"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "No pertinent family history",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "160266009"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "3f2dcbfa-750a-4ae7-9255-a57d00eab86b",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        }
+      ]
+    },
+    "SurgicalProcedures": {
+      "Collection": [
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "history of prior surgery",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "MEDCIN",
+                "EnumValue": "4440"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Denied"
+          },
+          "WipStatus": null,
+          "Id": "00ae8276-4023-4297-a622-a57d00eab805",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        }
+      ]
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "No pertinent past medical history",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "443508001"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Resolved"
+          },
+          "WipStatus": null,
+          "Id": "e5173f3e-a61d-45c2-9eb2-a57d00eab864",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Gastroenteritis",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "558.9"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "25374005"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5069cdfd-0dd3-4b98-926e-a57d00eab864",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Acute bronchitis",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "466.0"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "10509002"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "13c22390-e034-4fe5-b770-a57d00eab864",
+          "CreatedDate": 1451416475,
+          "LastModifiedDate": 1451416475
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "933911067",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Self",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Calista",
+    "LastName": "Hurley",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Male"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "30305",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 718934400,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -84.3851,
+    "Latitude": 33.832
+  },
+  "Id": 0,
+  "CreatedDate": 1471468228,
+  "LastModifiedDate": 1471468228,
+  "ExtIds": [],
+  "id": "4dab1f08-bbc5-40fe-819e-3fbdc50b4f34"
+}

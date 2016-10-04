@@ -1,0 +1,1167 @@
+{
+  "Id": 0,
+  "CreatedDate": 1470757403,
+  "LastModifiedDate": 1470757403,
+  "ExtIds": [],
+  "Coordinates": {
+    "Longitude": -98.659,
+    "Latitude": 32.6886
+  },
+  "Name": {
+    "FirstName": "Yuri",
+    "LastName": "Webb",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderType",
+      "EnumValue": "Male"
+    },
+    "Language": "",
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "76429",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null
+  },
+  "DateOfBirth": -184118400,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "124",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d117e9fa-eeda-457e-a7df-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "80",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5bce2942-78cd-4a3e-aa5a-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "62",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a1a47d3b-1a8b-4988-8019-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "37",
+              "Units": "° C",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "c511ada5-e173-48fd-9d50-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "95707.99007",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "65eb5c09-16a8-4c57-a90d-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "16",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0d63bc67-8375-4e77-b060-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "1.778",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b57f49b9-b59f-4d28-af91-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ObservationDate": 1450443289,
+          "Measurements": [
+            {
+              "Value": "30.28",
+              "Units": "kg/m^2",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "47371c32-0041-48e8-af0f-a58e00903bb1",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "eaf57d4d-93c3-4b14-a90b-a58e00903bbf",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "314077"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Lisinopril",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "20 daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "20",
+          "MedicalName": "Lisinopril",
+          "CommonName": "Lisinopril",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "cf528668-9cde-420d-80b3-a58e00903bce",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "197381"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Atenolol",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "50 daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "50",
+          "MedicalName": "Atenolol",
+          "CommonName": "Atenolol",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "9e23428e-f1f1-4cda-b8ee-a58e00903bdd",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "213169"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Plavix",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "75 daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "75",
+          "MedicalName": "Plavix",
+          "CommonName": "Plavix",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "ee47c279-f462-4249-911b-a58e00903beb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "617310"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Atorvastatin Calcium",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "20 daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "20",
+          "MedicalName": "Atorvastatin Calcium",
+          "CommonName": "Atorvastatin Calcium",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "e31ad1d3-35f9-4d03-a35a-a58e00903bf9",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "243670"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Aspirin",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "81 daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "81",
+          "MedicalName": "Aspirin",
+          "CommonName": "Aspirin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "564dd321-8932-4eaa-8292-a58e00903c07",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "207346"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nitrostat",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "0.4 as needed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "0.4",
+          "MedicalName": "Nitrostat",
+          "CommonName": "Nitrostat",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1452865508,
+          "CreatedDate": 1452865508,
+          "Id": "4fe796a1-a00b-4e87-8abf-a58e00903c16",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "RXNORM",
+                "EnumValue": "205866"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Biaxin",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "500 two times daily",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": "MG",
+          "Dose": "500",
+          "MedicalName": "Biaxin",
+          "CommonName": "Biaxin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": [
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "Back Surgery",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ae6ed4b5-e8db-4833-b2f0-a58e00903bb0",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "Knee Surgery",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e098b95e-7aa4-475e-8017-a58e00903bb0",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        }
+      ]
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "HEART DISEASE",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "429.9"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "45645"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "MI dec 31, 2012.  2 stents placed.  occasional angina but stable",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d9a79e97-175c-4f73-8d01-a58e00903be4",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "HISTORY OF COLONIC POLYPS",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V12.72"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "811111"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "5/13 with 4 cm sc polyp resected with HGD",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "de751769-10a9-45ad-b860-a58e00903c00",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "CHRONIC ANTICOAGULATION",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V58.61"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "39571988"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "plavix",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3ff8b793-9535-453a-a18f-a58e00903c1b",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "HIGH BLOOD PRESSURE",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "401.9"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "30422"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b50e652b-8511-4a0c-8777-a58e00903c35",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "CHRONIC ANTICOAGULATION",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "39571988"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "161647008"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V58.61"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "plavix",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "77ffc0ff-1bf9-4464-9ae2-a58e00903c39",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "HISTORY OF COLONIC POLYPS",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "811111"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "428283002"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V12.72"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "5/13 with 4 cm sc polyp resected with HGD",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3ebdcb13-a5ab-45c0-9701-a58e00903c39",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "HEART DISEASE",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "45639"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "56265001"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "429.9"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "MI dec 31, 2012.  2 stents placed.  occasional angina but stable",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "86b53b51-3ef8-4cd7-8066-a58e00903c39",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "HIGH BLOOD PRESSURE",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "86491"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "38341003"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "401.9"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b76bb3af-7725-4b8a-8bec-a58e00903c39",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": null,
+          "AllergyType": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Unknown"
+          },
+          "Reactions": [
+            {
+              "Name": "Hives",
+              "IsUrgent": false,
+              "DateOfReaction": null,
+              "ReactionSignificance": null
+            },
+            {
+              "Name": "Rash",
+              "IsUrgent": false,
+              "DateOfReaction": null,
+              "ReactionSignificance": null
+            }
+          ],
+          "Name": "Penicillins",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "76c4c826-8cbb-40ad-aaf9-a58e00903bae",
+          "CreatedDate": 1452865508,
+          "LastModifiedDate": 1452865508
+        }
+      ]
+    }
+  },
+  "SocialSecurityNumber": "107770611",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "Self",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "id": "4e30c36a-bc2b-4cd2-9c50-ed56fb869096"
+}

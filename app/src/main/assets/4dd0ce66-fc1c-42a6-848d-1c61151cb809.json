@@ -1,0 +1,3544 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1460746126,
+          "CreatedDate": 1460746126,
+          "Id": "479a61c7-f0d2-4e1a-97af-a5e900f41b93",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "UA W/O micro (in-office) - UA10",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "CLEAN VOIDED URINE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "URINE COLLECT TYPE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "9194-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7c64ad9b-796b-44b9-aacb-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "YELLOW",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "COLOR",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5778-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9f8fbf53-ae64-4a95-9a21-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "CLEAR",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CLARITY",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "32167-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "f136b001-9dde-4618-ab00-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "NEGATIVE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "GLUCOSE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "50555-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "47ff502e-c7ac-4a8d-a0a5-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "NEGATIVE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "BILIRUBIN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "50551-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "89a4389c-0b66-4ecf-bb4a-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "NEGATIVE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "KETONES",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "57734-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c24e2135-b11e-43fc-834a-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": ">1.030",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "SPECIFIC GRAVITY",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5810-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "95eb33ff-3672-46c6-97a5-a5e900f41b93",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "NEGATIVE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "BLOOD",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "53292-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "497a8401-78f0-4efb-bc74-a5e900f41b97",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "6",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "pH",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "50560-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "4e524be4-ec8c-4e76-8166-a5e900f41b97",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "NEGATIVE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "PROTEIN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "57735-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b2745b24-c23b-414f-80e1-a5e900f41b97",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.2",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "UROBILINOGEN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "19161-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "99ff0312-f9c4-41e4-be96-a5e900f41b97",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "NEGATIVE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "NITRITE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "50558-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a5e14641-28a8-4f9a-b8b5-a5e900f41b97",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "TRACE",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "LEUKOCYTE ESTERASE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "60026-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Urine specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "e84b6387-80f1-4422-afa8-a5e900f41b97",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              }
+            ]
+          },
+          "OrderDate": 1416581686
+        },
+        {
+          "LastModifiedDate": 1460746126,
+          "CreatedDate": 1460746126,
+          "Id": "d2324c88-ebe3-4319-81af-a5e900f41b9c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "TSH - TSH",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.974",
+                      "Units": "u[iU]/mL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "TSH",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "11580-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "695e1844-7fdc-42a2-8617-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              }
+            ]
+          },
+          "OrderDate": 1416596471
+        },
+        {
+          "LastModifiedDate": 1460746126,
+          "CreatedDate": 1460746126,
+          "Id": "62745490-367b-4f10-9b2b-a5e900f41b9c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Lipid Profile - LIPID",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "181",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CHOLESTEROL (TOTAL)",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2093-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Desirable        <200    mg/dL\r\nBorderline high  200-239 mg/dL\r\nHigh             >240    mg/dl",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "bdb8a598-b0cb-4dce-9bd4-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "108",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "TRIGLYCERIDE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2571-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Normal           <150    mg/dL\r\nBorderline high  150-199 mg/dL\r\nHigh             200-499 mg/dL",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c1443d84-de5f-41cb-bc1b-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "57",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "HDL CHOLESTEROL",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2085-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Low                          <40   mg/dL\r\nWNL                          40-59 mg/dL\r\nHigh (Negative risk)         >60   mg/dL",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d8db5c26-d8c9-491c-8931-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "102",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "LDL CHOLESTEROL",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "13457-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Optimal                     <100    mg/dL\r\nNear optimal                100-129 mg/dL\r\nBorderline high             130-159 mg/dL\r\nHigh                        160-189 mg/dL\r\nVery high                   >190    mg/dL\r\nGoals for therapy depend on NCEP Risk Category",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "dbb44cd5-f887-47e8-bf06-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "124",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "NON HDL CHOLESTEROL",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "43396-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Goals for therapy are determined by adding 30 mg/dL to LDL goals for respective NCEP Risk Category",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c529dcd2-2ebf-419a-8de9-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "22",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "VLDL",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "13458-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8a09336f-b8f4-4b06-9461-a5e900f41b9c",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.8",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "LDL/HDL RATIO",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "11054-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "02ae63d5-99a8-4c79-bd11-a5e900f41ba1",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.2",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "TC/HDL RATIO",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "9830-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "3fdc64f2-e354-45f8-a642-a5e900f41ba1",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              }
+            ]
+          },
+          "OrderDate": 1416596470
+        },
+        {
+          "LastModifiedDate": 1460746126,
+          "CreatedDate": 1460746126,
+          "Id": "cdd8b148-4cbe-409c-a6e5-a5e900f41ba1",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Comprehensive Metabolic Panel - CMET",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "90",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "GLUCOSE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2345-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "13b4f1bc-70c5-4195-82e4-a5e900f41ba1",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "141",
+                      "Units": "meq/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "SODIUM",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2951-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b98c22c9-3c34-4f55-8bf1-a5e900f41ba1",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "4.4",
+                      "Units": "meq/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "POTASSIUM",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2823-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "b3c311c5-4097-4607-801e-a5e900f41ba1",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "106",
+                      "Units": "meq/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CHLORIDE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2075-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8cd4886c-0ba6-4089-becf-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "25",
+                      "Units": "meq/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CO2",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2028-9"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9b3f2381-e5d1-41f5-9917-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "10",
+                      "Units": "meq/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ANION GAP",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "33037-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "032b5e47-92e9-45e8-a36b-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "12",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "BUN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "3094-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "72047541-409f-4033-af57-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.69",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CREATININE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2160-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "30b0ebd2-f995-405d-b82f-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "8.8",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "CALCIUM",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "17861-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "940a646b-720a-4ae0-80a6-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.6",
+                      "Units": "mg/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "BILIRUBIN,TOTAL",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "1975-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "2b212308-97d9-47b8-aa84-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "6.7",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "TOTAL PROTEIN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "2885-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8f601788-e4bb-48fb-8a25-a5e900f41ba5",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.9",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ALBUMIN",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "61152-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "13d7bd01-f780-4173-8847-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "16",
+                      "Units": "U/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "AST (SGOT)",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "30239-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "905e57b4-0a54-4ef3-9cea-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "21",
+                      "Units": "U/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ALT (SGPT)",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "1743-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9fe3d415-6d7f-46cc-ad53-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "100",
+                      "Units": "U/L",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ALK PHOSPHATASE",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "6768-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Serum specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d48da545-01a0-47bc-8951-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": ">60",
+                      "Units": null,
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "eGFR",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "62238-1"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "(Multiply result X 1.2 if Afr. Am.)",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "dd39d143-b5b5-4c86-a913-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              }
+            ]
+          },
+          "OrderDate": 1416596469
+        },
+        {
+          "LastModifiedDate": 1460746126,
+          "CreatedDate": 1460746126,
+          "Id": "1cfd5ca0-f41d-4634-bf9f-a5e900f41baa",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "OrderStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "CBC With Diff - CBCD",
+          "OrderingProviderName": null,
+          "PerformingFacilityInstructions": null,
+          "PatientInstructions": null,
+          "CollectionInfo": null,
+          "OrderItemSpecificInformation": null,
+          "CopyTo": null,
+          "PerformingFacility": null,
+          "OrderType": null,
+          "OrderingProvider": null,
+          "Priority": null,
+          "ScheduledDate": null,
+          "Results": {
+            "Collection": [
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "5.8",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "WBC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "14319-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "c6adc4dc-86ae-4b70-8d8d-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "4.3",
+                      "Units": "10*6/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "RBC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "789-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "8fd3e443-c1a2-4e1f-bd6c-a5e900f41baa",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "12.9",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "HGB",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "718-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7c196908-858e-4e97-b60a-a5e900f41baf",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "37.8",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "HCT",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "4544-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "35ad4c17-74a7-4796-b010-a5e900f41baf",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "87.9",
+                      "Units": "fL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCV",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "787-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "92a60b7b-40a7-4ba7-97ad-a5e900f41baf",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "34.1",
+                      "Units": "g/dL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "MCHC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "786-4"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "82a09aad-fb5e-4d23-8547-a5e900f41baf",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "13",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "RDW",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "62247-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "f2360a47-ecc6-4375-bd38-a5e900f41bb3",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "231",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "PLT",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "777-3"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "7c8f3fdc-f1bd-4982-835c-a5e900f41bb3",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "27",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "% LYMPHOCYTES",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "737-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "ffea8452-007a-4549-811d-a5e900f41bb3",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "63",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "% NEUTROPHILS",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "770-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "9a3d4e1a-7a64-4f55-a246-a5e900f41bb3",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "7",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "% MONOCYTES",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "5905-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "63354ff5-4d59-4403-875b-a5e900f41bb3",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "% EOSINOPHILS",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "713-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "d2271ce8-cb28-460b-9903-a5e900f41bb3",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "% BASOPHILS",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "707-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "deb16eca-8451-47e0-b99e-a5e900f41bb8",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0",
+                      "Units": "%",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "% NRBC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "18309-5"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "299c5a55-bde2-4a9b-83e2-a5e900f41bb8",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "3.6",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABS NEUTROPHILS",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "751-8"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "0abf3ae8-6d04-449e-b60d-a5e900f41bb8",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "1.5",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABS LYMPHOCYTES",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "731-0"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "99f7d0d1-5f9d-48ac-81f9-a5e900f41bb8",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.4",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABS MONOCYTES",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "742-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "a5f7aaab-1be8-4da4-82da-a5e900f41bb8",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0.2",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABS EOSINOPHILS",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "711-2"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "5316236e-3122-4f45-b31e-a5e900f41bb8",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABS BASOPHILS",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "704-7"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "aae8c493-aedc-4e27-b685-a5e900f41bbd",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              },
+              {
+                "ObservationDate": 1416580440,
+                "Measurements": {
+                  "Collection": [
+                    {
+                      "Value": "0",
+                      "Units": "k/uL",
+                      "CreatedDate": null,
+                      "ChartedDate": null
+                    }
+                  ]
+                },
+                "ObservationDescriptionId": null,
+                "ObservationGroupName": null,
+                "Name": "ABS NRBC",
+                "NomenclatureIds": [
+                  {
+                    "NomenclatureCode": {
+                      "EnumCatalog": "LOINC",
+                      "EnumValue": "771-6"
+                    },
+                    "Name": ""
+                  }
+                ],
+                "ClinicalDescription": "Specimen Type: Blood specimen (specimen)\r\nSpecimen Collected: 11/21/2014 09:34\r\nSpecimen Action: L\r\nLab: LMC (42D0665325), 2720 Sunset Blvd, , West Columbia, SC, 29169 (ID Type Code: XX)\r\nMedical Director:  M John Spalding",
+                "ReportingSource": null,
+                "Comments": null,
+                "Warnings": null,
+                "Annotations": null,
+                "ManagingProviders": null,
+                "ClinicalStatus": {
+                  "EnumCatalog": "ObservationStatus",
+                  "EnumValue": "Active"
+                },
+                "WipStatus": null,
+                "Id": "39d82652-9993-4b32-bbb5-a5e900f41bbd",
+                "CreatedDate": 1460746126,
+                "LastModifiedDate": 1460746126
+              }
+            ]
+          },
+          "OrderDate": 1416594844
+        }
+      ]
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1353526260,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "126",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "75321dc4-db52-4262-991c-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1366383720,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "134",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "17c1996c-c1b7-4cfe-8882-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1353526260,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "80",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "45c15da5-9411-4710-bae6-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1366383720,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "76",
+                "Units": "mmHG",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "73139ca8-fcb7-4e21-9d96-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1353526260,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "76",
+                "Units": "Beats Per Minute",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "91365fae-d623-496f-a6dd-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1353526260,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "2.11",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b22cc85f-4699-4ee0-a2d3-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1366383720,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "2.12",
+                "Units": "m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Surface Area",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b433bd8c-70a9-444b-b9f0-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1353526260,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "34.69",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "bfa33aee-b29b-4339-978e-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1366383720,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "35",
+                "Units": "kg/m^2",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Body Mass Index",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "02fd2b6c-cf41-4e1f-9742-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1353526260,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "100250",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "925e01f9-2b82-42cc-8ed3-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1366383720,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "101150",
+                "Units": "g",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "44a4c37d-6f35-42ff-b7ea-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        },
+        {
+          "ObservationDate": 1366383720,
+          "Measurements": {
+            "Collection": [
+              {
+                "Value": "37.17",
+                "Units": "° C",
+                "CreatedDate": null,
+                "ChartedDate": null
+              }
+            ]
+          },
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Temperature",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ObservationStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d7a821bd-527a-4d26-8a5a-a5e900f41c99",
+          "CreatedDate": 1460746127,
+          "LastModifiedDate": 1460746127
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "22059517-f5ec-4f94-9fbb-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "10520"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68645022254"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Ibuprofen 800 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": null,
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "800",
+          "Units": "MG",
+          "Dose": null,
+          "MedicalName": "Ibuprofen 800 MG Oral Tablet",
+          "CommonName": "Ibuprofen",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "d794d6e1-6e16-4743-8cd2-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "913"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68387046590"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "ALPRAZolam 0.25 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": null,
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "0.25",
+          "Units": "MG",
+          "Dose": null,
+          "MedicalName": "ALPRAZolam 0.25 MG Oral Tablet",
+          "CommonName": "ALPRAZolam",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "765e854e-5fe5-4bed-b779-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "5573"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68462055310"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Cyclobenzaprine HCl - 10 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": null,
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "10",
+          "Units": "MG",
+          "Dose": null,
+          "MedicalName": "Cyclobenzaprine HCl - 10 MG Oral Tablet",
+          "CommonName": "Cyclobenzaprine HCl",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "66eb6c0a-a30c-4a4d-8988-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "68683"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "55048062130"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Micardis 20 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Use As Directed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "20",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "Micardis 20 MG Oral Tablet",
+          "CommonName": "Micardis",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "1bae0527-8ec9-4abb-8f05-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "28557"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68788912106"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "MetFORMIN HCl - 500 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Twice Daily With Meals.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "500",
+          "Units": "MG",
+          "Dose": "2",
+          "MedicalName": "MetFORMIN HCl - 500 MG Oral Tablet",
+          "CommonName": "MetFORMIN HCl",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "ab071664-759c-4723-8048-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "69228"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68462029855"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Clotrimazole-Betamethasone 1-0.05 % External Cream",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Apply Thin Film To Affected Area(s) 3 Times Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "CREA",
+          "Strength": "1-0.05",
+          "Units": "%",
+          "Dose": "3",
+          "MedicalName": "Clotrimazole-Betamethasone 1-0.05 % External Cream",
+          "CommonName": "Clotrimazole-Betamethasone",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "42906345-42fb-452b-b8e2-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "20106"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "68084020611"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Spironolactone 25 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet Daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "25",
+          "Units": "MG",
+          "Dose": "1",
+          "MedicalName": "Spironolactone 25 MG Oral Tablet",
+          "CommonName": "Spironolactone",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1460746127,
+          "CreatedDate": 1460746127,
+          "Id": "d6d8f7fd-6ba7-4e11-9e77-a5e900f41cfb",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "35844"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "66267126309"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "SUMAtriptan Succinate 100 MG Oral Tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Take 1 Tablet For Migraine Relief. May Repeat 2 Hours Later. Maximum 200mg/day.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "TABS",
+          "Strength": "100",
+          "Units": "MG",
+          "Dose": "0",
+          "MedicalName": "SUMAtriptan Succinate 100 MG Oral Tablet",
+          "CommonName": "SUMAtriptan Succinate",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Classic migraine with aura",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "346.00"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "4473006"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "93234abd-d8c1-4e38-bbc8-a5e900f41b35",
+          "CreatedDate": 1460746125,
+          "LastModifiedDate": 1460746125
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Eczema",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "692.9"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "43116000"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "dce8d892-79e9-4c1b-b632-a5e900f41b35",
+          "CreatedDate": 1460746125,
+          "LastModifiedDate": 1460746125
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Idiopathic hypertension",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "401.9"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "59621000"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "53ac0424-3dd8-4068-834b-a5e900f41b35",
+          "CreatedDate": 1460746125,
+          "LastModifiedDate": 1460746125
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "743453889",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "Self",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "iona",
+    "LastName": "oneill",
+    "MiddleName": "middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "25008",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 186796800,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -81.3545,
+    "Latitude": 37.94
+  },
+  "Id": 0,
+  "CreatedDate": 1471465801,
+  "LastModifiedDate": 1471465801,
+  "ExtIds": [],
+  "id": "4dd0ce66-fc1c-42a6-848d-1c61151cb809"
+}

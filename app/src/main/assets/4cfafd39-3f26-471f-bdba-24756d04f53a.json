@@ -1,0 +1,2063 @@
+{
+  "Id": 0,
+  "CreatedDate": 1470757290,
+  "LastModifiedDate": 1470757290,
+  "ExtIds": [],
+  "Coordinates": {
+    "Longitude": -112.67,
+    "Latitude": 37.2378
+  },
+  "Name": {
+    "FirstName": "Thor",
+    "LastName": "Cantrell",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderType",
+      "EnumValue": "Male"
+    },
+    "Language": "",
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "84755",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null
+  },
+  "DateOfBirth": 941587200,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1296036900,
+          "Measurements": [
+            {
+              "Value": "96",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "e2cfaa69-99f7-4bcf-aaea-a350010a007b",
+          "CreatedDate": 1296036900,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1296036900,
+          "Measurements": [
+            {
+              "Value": "60",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a3d240b0-3212-433c-b155-a350010a007b",
+          "CreatedDate": 1296036900,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1296036900,
+          "Measurements": [
+            {
+              "Value": "68",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5b919282-db1a-489c-88c7-a350010a007b",
+          "CreatedDate": 1296036900,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1296036900,
+          "Measurements": [
+            {
+              "Value": "36287.3896",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "53182d9a-0a9e-47df-9cd3-a350010a007b",
+          "CreatedDate": 1296036900,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1296036900,
+          "Measurements": [
+            {
+              "Value": "20",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d7574d98-480e-4a47-b248-a350010a007b",
+          "CreatedDate": 1296036900,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1296036900,
+          "Measurements": [
+            {
+              "Value": "1.397",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "61bf58ec-6237-4cc8-9802-a350010a007b",
+          "CreatedDate": 1296036900,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1329305573,
+          "Measurements": [
+            {
+              "Value": "104",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "6b8d8ae4-ed62-4aa5-91d7-a350010a007b",
+          "CreatedDate": 1329305573,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1329305573,
+          "Measurements": [
+            {
+              "Value": "60",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f93eda87-2867-43ee-94d4-a350010a007b",
+          "CreatedDate": 1329305573,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1329305573,
+          "Measurements": [
+            {
+              "Value": "68",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0c50352f-893e-4006-9a18-a350010a007b",
+          "CreatedDate": 1329305573,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1329305573,
+          "Measurements": [
+            {
+              "Value": "41730.49804",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3a75257d-957f-4f56-a0cf-a350010a007b",
+          "CreatedDate": 1329305573,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1329305573,
+          "Measurements": [
+            {
+              "Value": "16",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7cda8b0e-4768-4e09-b87f-a350010a007b",
+          "CreatedDate": 1329305573,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1329305573,
+          "Measurements": [
+            {
+              "Value": "1.45415",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8e026338-c147-4059-b182-a350010a007b",
+          "CreatedDate": 1329305573,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1346403089,
+          "Measurements": [
+            {
+              "Value": "102",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "bb0d43dc-483e-4fad-bb75-a350010a007b",
+          "CreatedDate": 1346403089,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1346403089,
+          "Measurements": [
+            {
+              "Value": "64",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "77dddc51-7a5c-45e8-a0a1-a350010a007b",
+          "CreatedDate": 1346403089,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1346403089,
+          "Measurements": [
+            {
+              "Value": "80",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "de6affb7-4a71-4f25-9fcf-a350010a007b",
+          "CreatedDate": 1346403089,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1346403089,
+          "Measurements": [
+            {
+              "Value": "46266.42174",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7c43042c-e967-4eca-b396-a350010a007b",
+          "CreatedDate": 1346403089,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1346403089,
+          "Measurements": [
+            {
+              "Value": "20",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7c1a98dc-20f8-4951-964b-a350010a007b",
+          "CreatedDate": 1346403089,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1346403089,
+          "Measurements": [
+            {
+              "Value": "1.4986",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "85428d07-06ef-4945-9695-a350010a007b",
+          "CreatedDate": 1346403089,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1363165182,
+          "Measurements": [
+            {
+              "Value": "120",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3050c1d3-0b2e-48ae-a3d6-a350010a007b",
+          "CreatedDate": 1363165182,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1363165182,
+          "Measurements": [
+            {
+              "Value": "70",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d32e9e40-c28e-4e1c-9915-a350010a007b",
+          "CreatedDate": 1363165182,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1363165182,
+          "Measurements": [
+            {
+              "Value": "72",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a41968fb-c704-45a3-850d-a350010a007b",
+          "CreatedDate": 1363165182,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1363165182,
+          "Measurements": [
+            {
+              "Value": "51936.326365",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8cfdaef7-266d-4915-89b2-a350010a007b",
+          "CreatedDate": 1363165182,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1363165182,
+          "Measurements": [
+            {
+              "Value": "16",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "23a2806c-0999-4437-91bb-a350010a007b",
+          "CreatedDate": 1363165182,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1363165182,
+          "Measurements": [
+            {
+              "Value": "1.524",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "996c64a6-c698-4a10-98cd-a350010a007b",
+          "CreatedDate": 1363165182,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1379927645,
+          "Measurements": [
+            {
+              "Value": "128",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "47291a63-95ac-4ca8-86c4-a350010a007b",
+          "CreatedDate": 1379927645,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1379927645,
+          "Measurements": [
+            {
+              "Value": "68",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "bcec6cb3-daff-4c75-8e1a-a350010a007b",
+          "CreatedDate": 1379927645,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1379927645,
+          "Measurements": [
+            {
+              "Value": "76",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1ee515e9-0d81-4ead-b379-a350010a007b",
+          "CreatedDate": 1379927645,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1379927645,
+          "Measurements": [
+            {
+              "Value": "53523.89966",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "10f5e622-d78b-4b49-8104-a350010a007b",
+          "CreatedDate": 1379927645,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1379927645,
+          "Measurements": [
+            {
+              "Value": "16",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d7b04822-47ad-4af9-8b6e-a350010a007b",
+          "CreatedDate": 1379927645,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1379927645,
+          "Measurements": [
+            {
+              "Value": "1.5748",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0f871b71-a31e-44e8-9e6e-a350010a007b",
+          "CreatedDate": 1379927645,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1395825726,
+          "Measurements": [
+            {
+              "Value": "110",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Systolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "040998b7-5120-4fde-9045-a350010a007b",
+          "CreatedDate": 1395825726,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1395825726,
+          "Measurements": [
+            {
+              "Value": "58",
+              "Units": "mmHG",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Diastolic Blood Pressure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f3f4c778-4321-4aed-bf16-a350010a007b",
+          "CreatedDate": 1395825726,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1395825726,
+          "Measurements": [
+            {
+              "Value": "72",
+              "Units": "Beats Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Heart Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "cfc7bdc1-3631-4a2d-880b-a350010a007b",
+          "CreatedDate": 1395825726,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1395825726,
+          "Measurements": [
+            {
+              "Value": "58967.0081",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d931fd8f-8271-40fe-af9d-a350010a007b",
+          "CreatedDate": 1395825726,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1395825726,
+          "Measurements": [
+            {
+              "Value": "18",
+              "Units": "Breaths Per Minute",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Respiration Rate",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b83e1517-43ed-4776-ac8f-a350010a007b",
+          "CreatedDate": 1395825726,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "ObservationDate": 1395825726,
+          "Measurements": [
+            {
+              "Value": "1.6256",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a9e11cd8-ddc4-4fbc-aa6b-a350010a007b",
+          "CreatedDate": 1395825726,
+          "LastModifiedDate": 1403305708
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "24cbb8ff-f941-4b62-b3f7-a350010a0056",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00006027531"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "SINGULAIR ORAL TABLET CHEWABLE 5 MG",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 by mouth each PM.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": null,
+          "Strength": "5 MG",
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "SINGULAIR ORAL TABLET CHEWABLE 5 MG",
+          "CommonName": "SINGULAIR ORAL TABLET CHEWABLE 5 MG",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "d253da60-3ba8-4994-9d5d-a350010a005a",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "23490709401"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "NASONEX NASAL SUSPENSION 50 MCG/ACT",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 to 2 sprays  in each nostril once daily.  Stop for severe nosebleeds.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": null,
+          "Strength": "50 MCG/ACT",
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "NASONEX NASAL SUSPENSION 50 MCG/ACT",
+          "CommonName": "NASONEX NASAL SUSPENSION 50 MCG/ACT",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "029dae11-a68f-447d-94a3-a350010a005a",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00065027225"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "PATADAY, 0.2% (Ophthalmic Solution)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 drop in each eye once per day if needed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "Unspecified",
+          "Strength": "0.2 %",
+          "Units": null,
+          "Dose": "1 (one) Solution",
+          "MedicalName": "PATADAY, 0.2% (Ophthalmic Solution)",
+          "CommonName": "PATADAY, 0.2% (Ophthalmic Solution)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "a5c3bf93-a1d3-4ccd-9e6d-a350010a0064",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00006027531"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "SINGULAIR, 5MG (Oral Tablet Chewable)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1 by mouth each PM.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "Tablet Chewable",
+          "Strength": "5 MG",
+          "Units": null,
+          "Dose": "1 Tablet Chewable",
+          "MedicalName": "SINGULAIR, 5MG (Oral Tablet Chewable)",
+          "CommonName": "SINGULAIR, 5MG (Oral Tablet Chewable)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "3281b1b8-ecd9-4f20-a024-a350010a0064",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Discontinued"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00247125316"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "FLONASE, 50MCG/ACT (Nasal Suspension)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "1-2 sprays each nostril every day.  Stop for severe nosebleeds.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": null,
+          "Strength": "50 MCG/ACT",
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "FLONASE, 50MCG/ACT (Nasal Suspension)",
+          "CommonName": "FLONASE, 50MCG/ACT (Nasal Suspension)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "f5f34987-54b6-409b-9a25-a350010a0069",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00228119855"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "CETIRIZINE HCL, 10MG (Oral Tablet)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Once daily as needed.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "Tablet",
+          "Strength": "10 MG",
+          "Units": null,
+          "Dose": "1 (one) Tablet(s)",
+          "MedicalName": "CETIRIZINE HCL, 10MG (Oral Tablet)",
+          "CommonName": "CETIRIZINE HCL, 10MG (Oral Tablet)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "1f49b8a8-d9d2-49d3-afc2-a350010a0069",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00173300101"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "FLUTICASONE PROPIONATE, 50MCG/ACT (Nasal Suspension)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "In each nostril once daily.",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "Spray",
+          "Strength": "50 MCG/ACT",
+          "Units": null,
+          "Dose": "1-2 Spray(s)",
+          "MedicalName": "FLUTICASONE PROPIONATE, 50MCG/ACT (Nasal Suspension)",
+          "CommonName": "FLUTICASONE PROPIONATE, 50MCG/ACT (Nasal Suspension)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "d5c7bc66-88b1-4da6-931f-a350010a006d",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00054025913"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "MONTELUKAST SODIUM, 10MG (Oral Tablet)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "once daily in the PM",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": "Tablet",
+          "Strength": "10 MG",
+          "Units": null,
+          "Dose": "1 (one) Tablet",
+          "MedicalName": "MONTELUKAST SODIUM, 10MG (Oral Tablet)",
+          "CommonName": "MONTELUKAST SODIUM, 10MG (Oral Tablet)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1403305708,
+          "CreatedDate": 1403305708,
+          "Id": "439e74c5-5c67-4506-8323-a350010a0077",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatusType",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "23490702201"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "VENTOLIN HFA, 108 (90 Base)MCG/ACT (Inhalation Aerosol Solution)",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "Every 4 hours as needed",
+          "AdministrationStopped": null,
+          "Administered": null,
+          "Form": null,
+          "Strength": "108 (90 Base) MCG/ACT",
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "VENTOLIN HFA, 108 (90 Base)MCG/ACT (Inhalation Aerosol Solution)",
+          "CommonName": "VENTOLIN HFA, 108 (90 Base)MCG/ACT (Inhalation Aerosol Solution)",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": []
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": 1278043200,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "ALLERGIC RHINITIS DUE TO POLLEN",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "477.0"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1b7187ee-6c66-48de-8804-a350010a00a5",
+          "CreatedDate": 1432822283,
+          "LastModifiedDate": 1432222014
+        },
+        {
+          "Onset": 1278043200,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "ALLERGIC RHINITIS DUE TO ANIMAL HAIR AND DANDER",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "477.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "36d19d49-1c08-4b75-a622-a350010a00a5",
+          "CreatedDate": 1432822283,
+          "LastModifiedDate": 1432222385
+        },
+        {
+          "Onset": 1278043200,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "OTHER ALLERGIC RHINITIS",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "477.8"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b105c2e2-a52a-4e90-a2d4-a350010a00a5",
+          "CreatedDate": 1432822283,
+          "LastModifiedDate": 1432221769
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "OTHER ALLERGIC RHINITIS",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "477.8"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a0e58c5c-5287-41ec-9a7a-a350010a00a5",
+          "CreatedDate": 1432822283,
+          "LastModifiedDate": 1432222706
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "OTHER ALLERGIC RHINITIS",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "477.8"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "157053cf-caab-4270-b7c9-a350010a00a5",
+          "CreatedDate": 1432822283,
+          "LastModifiedDate": 1432222682
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "EPISTAXIS (784.7)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "784.7"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b99b1ec5-c16b-45df-b4ef-a350010a00a5",
+          "CreatedDate": 1403305709,
+          "LastModifiedDate": 1346404196
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "CONJUNCTIVITIS, ALLERGIC, CHRONIC",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "372.14"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "04ec30c1-f2b8-4539-b985-a350010a00a5",
+          "CreatedDate": 1432823430,
+          "LastModifiedDate": 1432224043
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "ALLERGIC ASTHMA WITH STATED CAUSE",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "493.00"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "67fd7549-c54c-4113-9d72-a350010a00a5",
+          "CreatedDate": 1403305709,
+          "LastModifiedDate": 1395827549
+        },
+        {
+          "Onset": 1307564100,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "PAST MEDICAL HISTORY: No history of significant medical diseases",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0d70341b-de7e-49e8-9e8a-a350010a00c6",
+          "CreatedDate": 1403305709,
+          "LastModifiedDate": 1395826226
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "Inhalant Immunotherapy - Current",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "fb106af9-3025-4ab5-9f3b-a350010a00c6",
+          "CreatedDate": 1403305709,
+          "LastModifiedDate": 1395827332
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": [
+        {
+          "Onset": 1307564100,
+          "Resolved": null,
+          "AllergyType": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Unknown"
+          },
+          "Reactions": [],
+          "Name": "FOOD ALLERGIES: No food allergies",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "81c2ef53-df2d-4e51-8523-a350010a0064",
+          "CreatedDate": 1403305708,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "Onset": 1307564100,
+          "Resolved": null,
+          "AllergyType": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Unknown"
+          },
+          "Reactions": [],
+          "Name": "INSECT ALLERGIES: History of local reaction only to bee stings",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "888bb829-685e-4235-a490-a350010a0064",
+          "CreatedDate": 1403305708,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "Onset": 1278043200,
+          "Resolved": null,
+          "AllergyType": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Unknown"
+          },
+          "Reactions": [
+            {
+              "Name": "Skin Rashes",
+              "IsUrgent": false,
+              "DateOfReaction": null,
+              "ReactionSignificance": null
+            }
+          ],
+          "Name": "CEFUROXIME AXETIL",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ed340e0e-ecba-4e87-aaa2-a350010a0064",
+          "CreatedDate": 1403305708,
+          "LastModifiedDate": 1403305708
+        },
+        {
+          "Onset": 1278043200,
+          "Resolved": null,
+          "AllergyType": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Unknown"
+          },
+          "Reactions": [],
+          "Name": "AUGMENTIN",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "39f3c74e-4cff-4098-88d0-a350010a0064",
+          "CreatedDate": 1403305708,
+          "LastModifiedDate": 1403305708
+        }
+      ]
+    }
+  },
+  "SocialSecurityNumber": "472768738",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "Other",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "id": "4cfafd39-3f26-471f-bdba-24756d04f53a"
+}

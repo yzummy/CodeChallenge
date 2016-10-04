@@ -1,0 +1,1411 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1464354119,
+          "CreatedDate": 1464354119,
+          "Id": "52c3d7f5-50bd-4ddf-8f25-a6130073e7db",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": null,
+          "NomenclatureIds": [],
+          "Name": "Natural thyroid (    ) Specific Dose Unknown Active: - Hx Entry",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": null,
+          "SignatureLine1": "",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": null,
+          "MedicalName": "Natural thyroid (    ) Specific Dose Unknown Active: - Hx Entry",
+          "CommonName": "Natural thyroid",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": [
+        {
+          "SocialBehavior": null,
+          "Name": "Gravida (# of Pregnancies): 4",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "2539802f-ac0c-44e0-94b7-a6130073eef6",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Spontaneous Loss (SAB): 2",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "2c7481c1-afc2-4009-842e-a6130073eef6",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Para (# of Vaginal Deliveries): 2",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "807d60de-ff85-4eff-9679-a6130073eef6",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Alcohol use",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "10016e45-8ee5-425c-aacb-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Caffeine use",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "848b77b0-0691-45b5-897a-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Exercise",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "0883b4a3-32aa-4727-989a-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "HIV risk factors",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "abe77be9-217b-43ff-9b02-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Illicit drug use",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "c0183ec5-7986-4504-acb1-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Never smoker",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "00fa6b7d-384c-44c1-bd4f-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Seat Belt Use",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "b1383c46-975a-4ed8-9463-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Sun Exposure",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "7b3be463-932a-4e97-8841-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Tobacco use: Never smoker. 05/16/2016: Never Smoker: Smokes 0 Cigar(S) Per Week, Uses 0 Can(S) Of Smokeless Tobacco Per Week",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "f2d7d27e-8352-4485-892a-a6130073eefb",
+          "CreatedDate": 1464354126,
+          "LastModifiedDate": 1464354126
+        }
+      ]
+    },
+    "FamilyProblems": {
+      "Collection": [
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Unknown"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "Cancer",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "275937001"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "father",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "c1b91c6b-2c4f-4703-8592-a6130073e274",
+          "CreatedDate": 1464354115,
+          "LastModifiedDate": 1464354115
+        },
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "AllFamily"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "First Degree Relatives",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "recorded",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "7f155912-b2fa-4305-9de7-a6130073e274",
+          "CreatedDate": 1464354115,
+          "LastModifiedDate": 1464354115
+        },
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Unknown"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "Hypertension",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "160357008"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "father",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "1a6c270a-db2f-4cbe-9dd6-a6130073e274",
+          "CreatedDate": 1464354115,
+          "LastModifiedDate": 1464354115
+        }
+      ]
+    },
+    "SurgicalProcedures": {
+      "Collection": [
+        {
+          "ProcedureDate": -62135596800,
+          "Name": "No pertinent past surgical history",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1cd8a4e3-44d2-4c73-8038-a6130073f03e",
+          "CreatedDate": 1464354127,
+          "LastModifiedDate": 1464354127
+        },
+        {
+          "ProcedureDate": 1463758676,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8450fc63-7a4c-494e-950c-a6130073f03e",
+          "CreatedDate": 1464354127,
+          "LastModifiedDate": 1464354127
+        },
+        {
+          "ProcedureDate": 1463758673,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "a977a792-75f3-4e0b-b3d8-a6130073f03e",
+          "CreatedDate": 1464354127,
+          "LastModifiedDate": 1464354127
+        },
+        {
+          "ProcedureDate": 1463758679,
+          "Name": "APPLY MODALITY,1+AREA,ELEC STIM (97014)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "c07e30e5-c70c-4449-a7d4-a6130073f03e",
+          "CreatedDate": 1464354127,
+          "LastModifiedDate": 1464354127
+        },
+        {
+          "ProcedureDate": 1464791605,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "57a72471-50df-4b24-b96b-a618008d637a",
+          "CreatedDate": 1464791686,
+          "LastModifiedDate": 1464791686
+        },
+        {
+          "ProcedureDate": 1464791609,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "aed4191e-79d9-4d5a-9906-a618008d637a",
+          "CreatedDate": 1464791686,
+          "LastModifiedDate": 1464791686
+        },
+        {
+          "ProcedureDate": 1464839747,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b06b748b-884c-40ca-b138-a619007409a7",
+          "CreatedDate": 1464872548,
+          "LastModifiedDate": 1464872548
+        },
+        {
+          "ProcedureDate": 1464839763,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8745c478-65e9-48dc-a8d1-a619007409a7",
+          "CreatedDate": 1464872548,
+          "LastModifiedDate": 1464872548
+        },
+        {
+          "ProcedureDate": 1465259891,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "8b105cbf-5e75-4e24-acab-a61d0133fb18",
+          "CreatedDate": 1465260079,
+          "LastModifiedDate": 1465260079
+        },
+        {
+          "ProcedureDate": 1465259884,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "83b265e6-5a15-430c-bbd4-a61d0133fb18",
+          "CreatedDate": 1465260079,
+          "LastModifiedDate": 1465260079
+        },
+        {
+          "ProcedureDate": 1466206819,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "30b38b48-47fc-4883-aa20-a629010eed08",
+          "CreatedDate": 1466288784,
+          "LastModifiedDate": 1466288784
+        },
+        {
+          "ProcedureDate": 1466206845,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "04322c4f-4b10-42ae-9d16-a629010eed08",
+          "CreatedDate": 1466288784,
+          "LastModifiedDate": 1466288784
+        },
+        {
+          "ProcedureDate": 1466545360,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5d850234-99e1-42c0-bdb6-a62c0103bdcf",
+          "CreatedDate": 1466545541,
+          "LastModifiedDate": 1466545541
+        },
+        {
+          "ProcedureDate": 1466545369,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "25ea5e04-8402-4a50-90db-a62c0103bdcf",
+          "CreatedDate": 1466545541,
+          "LastModifiedDate": 1466545541
+        },
+        {
+          "ProcedureDate": 1466545356,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "db8ace83-aa5f-430c-8d10-a62c0103bdcf",
+          "CreatedDate": 1466545541,
+          "LastModifiedDate": 1466545541
+        },
+        {
+          "ProcedureDate": 1466642077,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "f35b3d4b-7e1a-4d9a-bb84-a62d013314e3",
+          "CreatedDate": 1466642283,
+          "LastModifiedDate": 1466642283
+        },
+        {
+          "ProcedureDate": 1466642098,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "933f2deb-eea6-4312-a9a5-a62d013314e3",
+          "CreatedDate": 1466642283,
+          "LastModifiedDate": 1466642283
+        },
+        {
+          "ProcedureDate": 1467581650,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "878f6031-546c-48c9-8307-a63801010303",
+          "CreatedDate": 1467581745,
+          "LastModifiedDate": 1467581745
+        },
+        {
+          "ProcedureDate": 1467581647,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7d1ab551-26e7-43f1-a4d6-a63801010303",
+          "CreatedDate": 1467581745,
+          "LastModifiedDate": 1467581745
+        },
+        {
+          "ProcedureDate": 1467949064,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "1a00b750-0718-4f39-b12c-a63d00743862",
+          "CreatedDate": 1467983155,
+          "LastModifiedDate": 1467983155
+        },
+        {
+          "ProcedureDate": 1467949066,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "9ce8529c-e210-46f7-b4c8-a63d00743862",
+          "CreatedDate": 1467983155,
+          "LastModifiedDate": 1467983155
+        },
+        {
+          "ProcedureDate": 1468858832,
+          "Name": "MANUAL THERAPY 1+ REGIONS, EA 15 MN (97140)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "35c7d024-a551-4e11-99e7-a64700ab4a2c",
+          "CreatedDate": 1468859018,
+          "LastModifiedDate": 1468859018
+        },
+        {
+          "ProcedureDate": 1468858818,
+          "Name": "CMT, SPINAL, 1-2 REGIONS (98940)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "bf1d5247-0213-49a7-8ba6-a64700ab4a2c",
+          "CreatedDate": 1468859018,
+          "LastModifiedDate": 1468859018
+        }
+      ]
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Acute low back pain",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.2"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "709335"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "56859da6-8e34-4253-a862-a6130073e49e",
+          "CreatedDate": 1468859018,
+          "LastModifiedDate": 1468859018
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Segmental and somatic dysfunction of thoracic region",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "739.2"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "1818724"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "7e9419d7-27f3-4264-9d06-a6130073e49e",
+          "CreatedDate": 1468859018,
+          "LastModifiedDate": 1468859018
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Muscle spasm of back",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "724.8"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "333207"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "fb629e48-13ec-4c22-9256-a6130073e49e",
+          "CreatedDate": 1468859018,
+          "LastModifiedDate": 1468859018
+        },
+        {
+          "Onset": 1420095600,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Other disease, cancer, significant illness",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Non-hodgkins lymphoma",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b530585b-23a5-418e-a091-a6130073e4b5",
+          "CreatedDate": 1464354117,
+          "LastModifiedDate": 1464354117
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Right eustachian tube dysfunction",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "43aed9ab-8c71-4836-b522-a6130073e4b5",
+          "CreatedDate": 1464354117,
+          "LastModifiedDate": 1464354117
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Thyroid Disease",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "1520732"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "275536003"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "low thyroid",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "3285c714-62ed-4b0e-929c-a6130073e4b5",
+          "CreatedDate": 1464354117,
+          "LastModifiedDate": 1464354117
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Arm pain, musculoskeletal, left",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "729.5"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "41283755"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "ed480590-8b62-4a36-a3f3-a619007400dd",
+          "CreatedDate": 1466545541,
+          "LastModifiedDate": 1466545541
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Shoulder pain, right",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "719.41"
+              },
+              "Name": ""
+            },
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "CPT",
+                "EnumValue": "845902"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "c8df1072-d8dd-421f-a643-a61d0133fab1",
+          "CreatedDate": 1468859018,
+          "LastModifiedDate": 1468859018
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "397225224",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "Self",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Ignatius",
+    "LastName": "Espinoza",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "63822",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": 224380800,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -89.9878,
+    "Latitude": 36.6727
+  },
+  "Id": 0,
+  "CreatedDate": 1471463480,
+  "LastModifiedDate": 1471463480,
+  "ExtIds": [],
+  "id": "4f5c81c0-effc-489f-9510-1b64da9228dc"
+}

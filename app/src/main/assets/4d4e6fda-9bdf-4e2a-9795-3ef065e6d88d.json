@@ -1,0 +1,1747 @@
+{
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": []
+    },
+    "Medications": {
+      "Collection": [
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "c6d184a0-dbe7-4d2c-b4fd-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00573017511"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Advil 100 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Advil 100 mg prn",
+          "CommonName": "Advil 100 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "23521086-7c75-4915-a1e9-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "67544015260"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Claritin 10 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Claritin 10 mg prn",
+          "CommonName": "Claritin 10 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "9746a0ba-1006-4d14-a594-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "53191034401"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "folic acid",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "folic acid",
+          "CommonName": "folic acid",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "f6c0b540-7f61-4847-8bfa-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00093103919"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "gabapentin 300 mg capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "360",
+          "MedicalName": "gabapentin 300 mg capsule",
+          "CommonName": "gabapentin 300 mg capsule",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "ca166d35-4b5d-47c8-aaf6-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00173064460"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Lamictal 200 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "180",
+          "MedicalName": "Lamictal 200 mg tablet",
+          "CommonName": "Lamictal 200 mg tablet",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "0ad5836a-2c98-469c-9625-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "38485012042"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "multivitamin",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "multivitamin",
+          "CommonName": "multivitamin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "3b32c502-0647-4876-8f5e-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Nasal Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00085128801"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nasonex 50 mcg/actuation Spray",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Nasal Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Nasal Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "17",
+          "MedicalName": "Nasonex 50 mcg/actuation Spray",
+          "CommonName": "Nasonex 50 mcg/actuation Spray",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "773f7e09-8a33-425d-bda1-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "54868593600"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Symbicort 160-4.5 mcg/actuation",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Symbicort 160-4.5 mcg/actuation",
+          "CommonName": "Symbicort 160-4.5 mcg/actuation",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "0615ee7f-93d2-450e-8783-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "96121000261"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Vitamin D3 1,000 unit prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Vitamin D3 1,000 unit prn",
+          "CommonName": "Vitamin D3 1,000 unit prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1348531200,
+          "CreatedDate": 1348531200,
+          "Id": "b6372a8f-ca05-469c-8cb8-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "58864068630"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Zyrtec 10 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Zyrtec 10 mg prn",
+          "CommonName": "Zyrtec 10 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "8d2533d9-0285-4629-95fc-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "67544015260"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Claritin 10 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Claritin 10 mg prn",
+          "CommonName": "Claritin 10 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1339545600,
+          "Id": "e4b09f31-4ae2-49b7-835b-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00093103919"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "gabapentin 300 mg capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "360",
+          "MedicalName": "gabapentin 300 mg capsule",
+          "CommonName": "gabapentin 300 mg capsule",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1339718400,
+          "Id": "71ac7e4d-7509-4363-93f8-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00173064460"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Lamictal 200 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "180",
+          "MedicalName": "Lamictal 200 mg tablet",
+          "CommonName": "Lamictal 200 mg tablet",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1343606400,
+          "Id": "ce355e89-5a53-4f3f-9361-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Nasal Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00085128801"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nasonex 50 mcg/actuation Spray",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Nasal Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Nasal Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "17",
+          "MedicalName": "Nasonex 50 mcg/actuation Spray",
+          "CommonName": "Nasonex 50 mcg/actuation Spray",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "10b5953d-edbc-4a1f-b1a7-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00573017511"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Advil 100 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Advil 100 mg prn",
+          "CommonName": "Advil 100 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "4ee8e628-41e0-4de6-980c-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "67544015260"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Claritin 10 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Claritin 10 mg prn",
+          "CommonName": "Claritin 10 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "8c82475a-6e2a-4b1d-a6c6-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "53191034401"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "folic acid",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "folic acid",
+          "CommonName": "folic acid",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "ce960002-bbc1-41e8-8ea7-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "58864068630"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Zyrtec 10 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Zyrtec 10 mg prn",
+          "CommonName": "Zyrtec 10 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "144abe34-33e2-40f1-bfbd-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00093103919"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "gabapentin 300 mg capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "360",
+          "MedicalName": "gabapentin 300 mg capsule",
+          "CommonName": "gabapentin 300 mg capsule",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "7e64c68a-6fc8-49a0-be94-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00173064460"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Lamictal 200 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "180",
+          "MedicalName": "Lamictal 200 mg tablet",
+          "CommonName": "Lamictal 200 mg tablet",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "b1b7d47c-9c71-4097-806d-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "38485012042"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "multivitamin",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "multivitamin",
+          "CommonName": "multivitamin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "5aabf39f-5efe-482d-aded-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Nasal Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00085128801"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nasonex 50 mcg/actuation Spray",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Nasal Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Nasal Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "17",
+          "MedicalName": "Nasonex 50 mcg/actuation Spray",
+          "CommonName": "Nasonex 50 mcg/actuation Spray",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "e9fab606-cd35-436a-9677-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "54868593600"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Symbicort 160-4.5 mcg/actuation",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Symbicort 160-4.5 mcg/actuation",
+          "CommonName": "Symbicort 160-4.5 mcg/actuation",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1346198400,
+          "CreatedDate": 1346198400,
+          "Id": "1ee270ab-2730-4e4a-aac4-a402014ed588",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Complete"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "96121000261"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Vitamin D3 1,000 unit prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Vitamin D3 1,000 unit prn",
+          "CommonName": "Vitamin D3 1,000 unit prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "a95e319c-686e-4655-b7d6-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00573017511"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Advil 100 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Advil 100 mg prn",
+          "CommonName": "Advil 100 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "bddcba06-3b17-4304-a99c-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "53191034401"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "folic acid",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "folic acid",
+          "CommonName": "folic acid",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "7066f794-c390-44d7-a6a6-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00093103919"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "gabapentin 300 mg capsule",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "360",
+          "MedicalName": "gabapentin 300 mg capsule",
+          "CommonName": "gabapentin 300 mg capsule",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "f24374ee-892e-42c6-90ab-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Oral Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00173064460"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Lamictal 200 mg tablet",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Oral Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Oral Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "180",
+          "MedicalName": "Lamictal 200 mg tablet",
+          "CommonName": "Lamictal 200 mg tablet",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "18ed4add-31e6-4a35-883f-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "38485012042"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "multivitamin",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "multivitamin",
+          "CommonName": "multivitamin",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "61cd47c3-1bc1-41dd-a17d-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "Add l Sig Add l Sig Nasal Add l Sig",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "00085128801"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Nasonex 50 mcg/actuation Spray",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "Add l Sig Add l Sig Nasal Add l Sig",
+          "SignatureLine1": "Add l Sig Add l Sig Nasal Add l Sig",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "17",
+          "MedicalName": "Nasonex 50 mcg/actuation Spray",
+          "CommonName": "Nasonex 50 mcg/actuation Spray",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "5d4ec13c-1727-4813-a52e-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "54868593600"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Symbicort 160-4.5 mcg/actuation",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Symbicort 160-4.5 mcg/actuation",
+          "CommonName": "Symbicort 160-4.5 mcg/actuation",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "a3ccf95d-c1b2-4651-9355-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "96121000261"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Vitamin D3 1,000 unit prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Vitamin D3 1,000 unit prn",
+          "CommonName": "Vitamin D3 1,000 unit prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "LastModifiedDate": 1418601600,
+          "CreatedDate": 1352678400,
+          "Id": "7f25349d-d673-4bd3-aa5e-a402014ed58c",
+          "WipStatus": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "MedicationStatus",
+            "EnumValue": "Active"
+          },
+          "ManagingProviders": null,
+          "Annotations": null,
+          "Warnings": null,
+          "Comments": null,
+          "ReportingSource": null,
+          "ClinicalDescription": "As Directed",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "NDC",
+                "EnumValue": "58864068630"
+              },
+              "Name": ""
+            }
+          ],
+          "Name": "Zyrtec 10 mg prn",
+          "ProviderName": null,
+          "Provider": null,
+          "Duration": null,
+          "Frequency": null,
+          "Prescription": null,
+          "NDCNumber": null,
+          "Route": null,
+          "Site": null,
+          "SignatureLine2": "As Directed",
+          "SignatureLine1": "As Directed",
+          "AdministrationStopped": -62135596800,
+          "Administered": -62135596800,
+          "Form": null,
+          "Strength": null,
+          "Units": null,
+          "Dose": "1",
+          "MedicalName": "Zyrtec 10 mg prn",
+          "CommonName": "Zyrtec 10 mg prn",
+          "OrderId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    "SocialHistoryItems": {
+      "Collection": [
+        {
+          "SocialBehavior": null,
+          "Name": "Never Smoker",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "266919005"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "Never Smoker",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "8e41960b-613c-46d3-a3d2-a402014ed5dc",
+          "CreatedDate": 1418601600,
+          "LastModifiedDate": 1418601600
+        }
+      ]
+    },
+    "FamilyProblems": {
+      "Collection": []
+    },
+    "SurgicalProcedures": {
+      "Collection": []
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": 1418601600,
+          "Resolved": -62135596800,
+          "RelatedMedications": null,
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": null,
+          "Name": "Disturbance, visual, subjective",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "368.10"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "Disturbance, visual, subjective",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProblemStatus",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2c178141-534f-4730-8228-a402014ed5c0",
+          "CreatedDate": 1418601600,
+          "LastModifiedDate": 1418601600
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": []
+    }
+  },
+  "SocialSecurityNumber": "146110130",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "_Blank",
+  "ResponsiblePartyRelationship": "_Blank",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "Name": {
+    "FirstName": "Wyoming",
+    "LastName": "Lowery",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderCodes",
+      "EnumValue": "Female"
+    },
+    "Language": {
+      "EnumCatalog": "LanguageCodes",
+      "EnumValue": "English"
+    },
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "15475",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null,
+    "IdentifyingGender": null
+  },
+  "DateOfBirth": -102816000,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "Coordinates": {
+    "Longitude": -79.8814,
+    "Latitude": 39.9847
+  },
+  "Id": 0,
+  "CreatedDate": 1471459222,
+  "LastModifiedDate": 1471459222,
+  "ExtIds": [],
+  "id": "4d4e6fda-9bdf-4e2a-9795-3ef065e6d88d"
+}

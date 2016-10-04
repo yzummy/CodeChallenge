@@ -1,0 +1,528 @@
+{
+  "Id": 0,
+  "CreatedDate": 1470757338,
+  "LastModifiedDate": 1470757338,
+  "ExtIds": [],
+  "Coordinates": {
+    "Longitude": -83.216,
+    "Latitude": 35.0705
+  },
+  "Name": {
+    "FirstName": "latifah",
+    "LastName": "knowles",
+    "MiddleName": "middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "Demographics": {
+    "Gender": {
+      "EnumCatalog": "GenderType",
+      "EnumValue": "Female"
+    },
+    "Language": "",
+    "ContactInformation": {
+      "MailingAddress": {
+        "Line1": null,
+        "Line2": null,
+        "Line3": null,
+        "City": "redacted",
+        "State": null,
+        "ZipCode": "28741",
+        "Country": null
+      },
+      "HomeTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "CellularTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "WorkTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      },
+      "EmailAddress": "noreply@followmyhealth.com",
+      "FaxTelephoneNumber": {
+        "CountryCode": null,
+        "Number": null,
+        "Ext": null,
+        "Kind": null
+      }
+    },
+    "Ethnicity": null,
+    "Race": null
+  },
+  "DateOfBirth": -214272000,
+  "DateOfDeath": null,
+  "ImageResources": [],
+  "ResponsiblePersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "EmergencyPersonName": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "MiddleName": "Middle",
+    "Suffix": "None",
+    "Credentials": null,
+    "Salutation": "None",
+    "Nickname": null
+  },
+  "ResponsibleContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "EmergencyContactInformation": {
+    "MailingAddress": {
+      "Line1": "Address Line 1",
+      "Line2": "Address Line 2",
+      "Line3": "Address Line 3",
+      "City": "City",
+      "State": "Alaska",
+      "ZipCode": "12345",
+      "Country": null
+    },
+    "HomeTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "CellularTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "WorkTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    },
+    "EmailAddress": "noreply@followmyhealth.com",
+    "FaxTelephoneNumber": {
+      "CountryCode": null,
+      "Number": null,
+      "Ext": null,
+      "Kind": null
+    }
+  },
+  "BillingAccount": null,
+  "Appointments": null,
+  "HealthRecord": {
+    "Examinations": null,
+    "Immunizations": {
+      "Collection": []
+    },
+    "Orders": {
+      "Collection": []
+    },
+    "Observations": {
+      "Collection": [
+        {
+          "ObservationDate": 1409929224,
+          "Measurements": [
+            {
+              "Value": "52163.12255",
+              "Units": "g",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Weight",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0866f40a-50e7-4b57-a831-a3d101006c3c",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        },
+        {
+          "ObservationDate": 1409929224,
+          "Measurements": [
+            {
+              "Value": "1.6256",
+              "Units": "m",
+              "CreatedDate": null,
+              "ChartedDate": null
+            }
+          ],
+          "ObservationDescriptionId": null,
+          "ObservationGroupName": null,
+          "Name": "Height",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": null,
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "0c4a72a4-4d7e-465f-9e09-a3d101006c3c",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        }
+      ]
+    },
+    "Medications": {
+      "Collection": []
+    },
+    "SocialHistoryItems": {
+      "Collection": [
+        {
+          "SocialBehavior": null,
+          "Name": "Blood Transfusion: No",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "e46d590a-99c8-4b2a-b8fe-a3d101006c78",
+          "CreatedDate": 1441889106,
+          "LastModifiedDate": 1441889106
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Alcohol Use: Occasional alcohol use",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "f67b5e85-4a7a-4418-97b2-a3d101006c78",
+          "CreatedDate": 1441889106,
+          "LastModifiedDate": 1441889106
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Employment status: Full-time",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "5b9f72ea-c4cf-4722-94df-a3d101006c79",
+          "CreatedDate": 1441889106,
+          "LastModifiedDate": 1441889106
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Marital status: Married",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "038572fa-8694-400c-89d6-a3d101006c79",
+          "CreatedDate": 1441889148,
+          "LastModifiedDate": 1441889148
+        },
+        {
+          "SocialBehavior": null,
+          "Name": "Tobacco Use: Never smoker",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "7d7d1885-ac73-4d92-b861-a3d101006c7a",
+          "CreatedDate": 1441889148,
+          "LastModifiedDate": 1441889148
+        }
+      ]
+    },
+    "FamilyProblems": {
+      "Collection": [
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Paternal"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "Father",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "Hypertension",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "69cf85c8-97e3-49f3-8749-a3d101006c53",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        },
+        {
+          "RelationshipType": {
+            "EnumCatalog": "FamilyRelationshipType",
+            "EnumValue": "Maternal"
+          },
+          "DateOfBirth": null,
+          "IsDeceased": null,
+          "Name": "Breast Cancer",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "SNOMED",
+                "EnumValue": "429740004"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": null,
+          "WipStatus": null,
+          "Id": "67c1904f-0053-4b6f-ad4b-a3d101006c53",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        }
+      ]
+    },
+    "SurgicalProcedures": {
+      "Collection": [
+        {
+          "ProcedureDate": 1409929258,
+          "Name": "None",
+          "NomenclatureIds": [],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "2e27d470-26db-49d5-9a27-a3d101006c3a",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        },
+        {
+          "ProcedureDate": 1565608115,
+          "Name": "COLONOSCOPIC SURGERIES: DIAGNOSTIC COLONOSCOPY (45378)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V12.72"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": null,
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "ProcedureStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "736755c1-7c85-469d-9842-a3d101006c42",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        }
+      ]
+    },
+    "Problems": {
+      "Collection": [
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "History of colon polyps (V12.72)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V12.72"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "b84052c5-9c20-4e8b-82d5-a3d101006c3a",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        },
+        {
+          "Onset": -62135596800,
+          "Resolved": -62135596800,
+          "RelatedMedications": [],
+          "ProblemType": null,
+          "LastAssessed": null,
+          "RelatedOrders": [],
+          "Name": "History of colon polyps (V12.72)",
+          "NomenclatureIds": [
+            {
+              "NomenclatureCode": {
+                "EnumCatalog": "ICD9",
+                "EnumValue": "V12.72"
+              },
+              "Name": ""
+            }
+          ],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "HealthConditionStatusType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "5ad92858-2010-4750-b3c4-a3d101006c3a",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        }
+      ]
+    },
+    "Allergies": {
+      "Collection": [
+        {
+          "Onset": -62135578800,
+          "Resolved": -62135578800,
+          "AllergyType": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Unknown"
+          },
+          "Reactions": [],
+          "Name": "NSAIDs",
+          "NomenclatureIds": [],
+          "ClinicalDescription": "",
+          "ReportingSource": null,
+          "Comments": null,
+          "Warnings": null,
+          "Annotations": null,
+          "ManagingProviders": null,
+          "ClinicalStatus": {
+            "EnumCatalog": "AllergyType",
+            "EnumValue": "Active"
+          },
+          "WipStatus": null,
+          "Id": "d6c1f2c1-cff8-4c75-acde-a3d101006c3c",
+          "CreatedDate": 1441889104,
+          "LastModifiedDate": 1441889104
+        }
+      ]
+    }
+  },
+  "SocialSecurityNumber": "818641592",
+  "InsurancePolicies": null,
+  "EmergencyContactRelationship": "Other",
+  "ResponsiblePartyRelationship": "Self",
+  "ResponsiblePartyDateOfBirth": null,
+  "Notes": null,
+  "ClinicalId": null,
+  "PreferredPharmacy": null,
+  "Consents": null,
+  "id": "4e29f662-8451-4015-b177-e7bc443ec1a4"
+}
